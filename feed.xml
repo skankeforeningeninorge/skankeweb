@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Test for ny skankeweb</title>
+    <link href="https://skankeforeningeninorge.github.io/skankeweb/feed.xml" rel="self" />
+    <link href="https://skankeforeningeninorge.github.io/skankeweb" />
+    <updated>2025-05-19T15:52:36+02:00</updated>
+    <author>
+        <name>Åge Schanke</name>
+    </author>
+    <id>https://skankeforeningeninorge.github.io/skankeweb</id>
+
+    <entry>
+        <title>Velkommen til nytt nettsted</title>
+        <author>
+            <name>Åge Schanke</name>
+        </author>
+        <link href="https://skankeforeningeninorge.github.io/skankeweb/velkommen-til-nytt-nettsted.html"/>
+        <id>https://skankeforeningeninorge.github.io/skankeweb/velkommen-til-nytt-nettsted.html</id>
+
+        <updated>2025-05-19T15:52:36+02:00</updated>
+            <summary>
+                <![CDATA[
+                    I dag har vi opprettet vårt nettsted for Skankeforeningen i Norge.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>I dag har vi opprettet vårt nettsted for Skankeforeningen i Norge.</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
