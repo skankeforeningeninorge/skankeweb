@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "https://skankeforeningeninorge.github.io/skankeweb/her-er-en-ny-post.html",
+            "url": "https://skankeforeningeninorge.github.io/skankeweb/her-er-en-ny-post.html",
+            "title": "Her er en ny post",
+            "summary": "test test",
+            "content_html": "<p>test test</p>\n<p> </p>\n<p> </p>",
+            "author": {
+                "name": "Magne Seim"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-06-02T12:50:39+02:00",
+            "date_modified": "2025-06-02T12:50:39+02:00"
+        },
+        {
             "id": "https://skankeforeningeninorge.github.io/skankeweb/webside-utvikling-startet.html",
             "url": "https://skankeforeningeninorge.github.io/skankeweb/webside-utvikling-startet.html",
             "title": "Webside utvikling har startet",
