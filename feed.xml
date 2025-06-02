@@ -3,14 +3,14 @@
     <title>Skankeforeningen - Magnes forslag</title>
     <link href="https://skankeforeningeninorge.github.io/skankeweb/feed.xml" rel="self" />
     <link href="https://skankeforeningeninorge.github.io/skankeweb" />
-    <updated>2025-06-02T12:50:39+02:00</updated>
+    <updated>2025-06-02T14:38:36+02:00</updated>
     <author>
         <name>Magne Seim</name>
     </author>
     <id>https://skankeforeningeninorge.github.io/skankeweb</id>
 
     <entry>
-        <title>Her er en ny post</title>
+        <title>Her er en ny post endret av Magne</title>
         <author>
             <name>Magne Seim</name>
         </author>
@@ -20,12 +20,12 @@
         <updated>2025-06-02T12:50:39+02:00</updated>
             <summary>
                 <![CDATA[
-                    test test
+                    test test av Magne
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>test test</p>
+                <p>test test av Magne</p>
 <p> </p>
 <p> </p>
             ]]>
