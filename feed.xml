@@ -3,12 +3,36 @@
     <title>Skankeforeningen - Magnes forslag</title>
     <link href="https://skankeforeningeninorge.github.io/skankeweb/feed.xml" rel="self" />
     <link href="https://skankeforeningeninorge.github.io/skankeweb" />
-    <updated>2025-06-19T15:57:34+02:00</updated>
+    <updated>2025-09-25T13:47:12+02:00</updated>
     <author>
         <name>Magne Seim</name>
     </author>
     <id>https://skankeforeningeninorge.github.io/skankeweb</id>
 
+    <entry>
+        <title>Test av GitHup kontakt</title>
+        <author>
+            <name>Magne Seim</name>
+        </author>
+        <link href="https://skankeforeningeninorge.github.io/skankeweb/test-av-githup-kontakt.html"/>
+        <id>https://skankeforeningeninorge.github.io/skankeweb/test-av-githup-kontakt.html</id>
+            <category term="Nyheter"/>
+            <category term="Artikler"/>
+
+        <updated>2025-09-25T13:46:38+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Hei vil bare teste at github får data fra Publii
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Hei </p>
+<p> </p>
+<p>vil bare teste at github får data fra Publii</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Borgerleiet Austafjord omkring 1900</title>
         <author>

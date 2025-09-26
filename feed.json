@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://skankeforeningeninorge.github.io/skankeweb/test-av-githup-kontakt.html",
+            "url": "https://skankeforeningeninorge.github.io/skankeweb/test-av-githup-kontakt.html",
+            "title": "Test av GitHup kontakt",
+            "summary": "Hei vil bare teste at github får data fra Publii",
+            "content_html": "<p>Hei </p>\n<p> </p>\n<p>vil bare teste at github får data fra Publii</p>",
+            "author": {
+                "name": "Magne Seim"
+            },
+            "tags": [
+                   "Nyheter",
+                   "Artikler"
+            ],
+            "date_published": "2025-09-25T13:46:38+02:00",
+            "date_modified": "2025-09-25T13:47:12+02:00"
+        },
+        {
             "id": "https://skankeforeningeninorge.github.io/skankeweb/borgerleiet-austafjord-omkring-1900.html",
             "url": "https://skankeforeningeninorge.github.io/skankeweb/borgerleiet-austafjord-omkring-1900.html",
             "title": "Borgerleiet Austafjord omkring 1900",
