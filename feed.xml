@@ -1,278 +1,289 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>Skankeforeningen - Magnes forslag</title>
+    <title>Skanke-foreningen</title>
     <link href="https://skankeforeningeninorge.github.io/skankeweb/feed.xml" rel="self" />
     <link href="https://skankeforeningeninorge.github.io/skankeweb" />
-    <updated>2025-09-25T13:47:12+02:00</updated>
+    <updated>2025-12-19T20:50:44+01:00</updated>
     <author>
-        <name>Magne Seim</name>
+        <name>Skankeforeningen</name>
     </author>
     <id>https://skankeforeningeninorge.github.io/skankeweb</id>
 
     <entry>
-        <title>Test av GitHup kontakt</title>
+        <title>Kremmerleiet Ballstad - Litt om Jentoft-gården og familien der</title>
         <author>
-            <name>Magne Seim</name>
+            <name>Hans Brattestå</name>
         </author>
-        <link href="https://skankeforeningeninorge.github.io/skankeweb/test-av-githup-kontakt.html"/>
-        <id>https://skankeforeningeninorge.github.io/skankeweb/test-av-githup-kontakt.html</id>
-            <category term="Nyheter"/>
+        <link href="https://skankeforeningeninorge.github.io/skankeweb/kremmerleiet-ballstad-litt-om-jentoft-garden-og-familien-der.html"/>
+        <id>https://skankeforeningeninorge.github.io/skankeweb/kremmerleiet-ballstad-litt-om-jentoft-garden-og-familien-der.html</id>
             <category term="Artikler"/>
 
-        <updated>2025-09-25T13:46:38+02:00</updated>
-            <summary>
+        <updated>2025-11-11T18:47:04+01:00</updated>
+            <summary type="html">
                 <![CDATA[
-                    Hei vil bare teste at github får data fra Publii
+                    På Ballstadøy i Vestvågøy, tidligere Buksnes kommune i Lofoten, ligger Lofotens eldste eksisterende væreiergård, Jentoft-gården. Nåværende eier og beboer er Jens Foslie Jentoft (f. 1953). Han flyttet inn i væreierboligen&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Hei </p>
-<p> </p>
-<p>vil bare teste at github får data fra Publii</p>
+                <p><span style="font-family: Times New Roman, serif;"><span style="font-size: medium;"><span style="font-family: Aptos, serif;">På Ballstadøy i Vestvågøy, tidligere Buksnes kommune i Lofoten, ligger Lofotens eldste eksisterende væreiergård, Jentoft-gården. Nåværende eier og beboer er Jens Foslie Jentoft (f. 1953). Han flyttet inn i væreierboligen i 2016. Da var huset fra ca. 1812, temmelig forfallent. Huset har tre etasjer og kjeller. Til sammen ca. 1000 kvadratmeter med 35 rom, herunder 10 soverom. De påfølgende tre årene brukte Jens til å tilbakeføre huset til fordums prakt. Det har han virkelig greid. Og ikke bare det, uteområdene og øvrige hus på eiendommen er også istandsatt, og i det restaurerte fjøset fra 1881 ble det i 2024 åpnet et familiedrevet fiskeri- og væreier-museum! Jens Foslie Jentoft er femte generasjons eier og beboere av Jentoft-gården i sin slektslinje. Fiskeværet Ballstad er ett av Lofotens eldste fiskevær og kremmerleier, hvor det er drevet fiske og handel i ca. 1000 år. Jens Foslie Jentoft er Skanke-ætling så det holder via bl.a. flere Blix- og Schøning-grener. Det kommer jeg tilbake til, men alt om slekten bakover blir det ikke plass til i denne artikkelen.</span></span></span></p>
+<figure class="post__image"><img loading="lazy" src="https://skankeforeningeninorge.github.io/skankeweb/media/posts/39/Jentoft-gaard.png" alt="" width="1200" height="800" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://skankeforeningeninorge.github.io/skankeweb/media/posts/39/responsive/Jentoft-gaard-xs.png 640w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/39/responsive/Jentoft-gaard-sm.png 768w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/39/responsive/Jentoft-gaard-md.png 1024w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/39/responsive/Jentoft-gaard-lg.png 1366w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/39/responsive/Jentoft-gaard-xl.png 1600w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/39/responsive/Jentoft-gaard-2xl.png 1920w">
+<figcaption><span style="font-family: Times New Roman, serif;"><span style="font-size: medium;"><span style="font-family: Aptos, serif;"><span style="font-size: small;"><strong>Den nyoppussete Jentoft-gården på Ballstadøy.</strong></span></span></span></span></figcaption>
+</figure>
+<p><span style="font-family: Times New Roman, serif;"><span style="font-size: medium;"><span style="font-family: Aptos, serif;"><strong>Litt om Ballstad og kommunen det ligger i.<br></strong></span><span style="color: #000000;"><span style="font-family: Aptos, serif;">Ballstad er et av de større fiskeværene i det som tidligere var </span></span><span style="color: #0000ff;"><a href="https://lokalhistoriewiki.no/wiki/Buksnes_kommune" target="Buksnes kommune"><span style="color: #000000;"><span style="font-family: Aptos, serif;">Buksnes</span></span></a></span><span style="font-family: Aptos, serif;"> kommune i Lofoten. I</span><span style="color: #000000;"><span style="font-family: Aptos, serif;"> </span></span><span style="color: #0000ff;"><a href="https://no.wikipedia.org/wiki/1963" target="1963"><span style="color: #000000;"><span style="font-family: Aptos, serif;">1963</span></span></a></span><span style="color: #000000;"><span style="font-family: Aptos, serif;"> ble Buksnes, </span></span><span style="color: #0000ff;"><a href="https://no.wikipedia.org/wiki/Borge_(Nordland)" target="Borge (Nordland)"><span style="color: #000000;"><span style="font-family: Aptos, serif;">Borge</span></span></a></span><span style="color: #000000;"><span style="font-family: Aptos, serif;">, </span></span><span style="color: #0000ff;"><a href="https://no.wikipedia.org/wiki/Hol_i_Nordland" target="Hol i Nordland"><span style="color: #000000;"><span style="font-family: Aptos, serif;">Hol</span></span></a></span><span style="color: #000000;"><span style="font-family: Aptos, serif;"> og </span></span><span style="color: #0000ff;"><a href="https://no.wikipedia.org/wiki/Valberg" target="Valberg"><span style="color: #000000;"><span style="font-family: Aptos, serif;">Valberg</span></span></a></span><span style="color: #000000;"><span style="font-family: Aptos, serif;"> slått sammen til den nye </span></span><span style="color: #0000ff;"><a href="https://no.wikipedia.org/wiki/Vestv%C3%A5g%C3%B8y" target="Vestvågøy"><span style="color: #000000;"><span style="font-family: Aptos, serif;">Vestvågøy</span></span></a></span><span style="color: #000000;"><span style="font-family: Aptos, serif;"> kommune, som er </span></span><span style="font-family: Aptos, serif;">Lofotens mest folkerike med 11.619 innbyggere (2024). Fiskeværet Ballstad, beliggende på sør-vestspissen av Vestvågøy, </span><span style="color: #000000;"><span style="font-family: Aptos, serif;">er meget gammelt. Det har blitt drevet fiske her i rundt 1000 år, og det har vært en viktig del av livet til dem som bodde der. Ballstad er fortsatt et fiskevær i full drift, i dag med flere fiskebruk fordelt på </span></span><span style="color: #0000ff;"><a href="https://lokalhistoriewiki.no/index.php?title=Ballstad%C3%B8ya&amp;action=edit&amp;redlink=1" target="Ballstadøya (siden finnes ikke)"><span style="color: #000000;"><span style="font-family: Aptos, serif;">Ballstadøya</span></span></a></span><span style="color: #000000;"><span style="font-family: Aptos, serif;"> og </span></span><span style="color: #0000ff;"><a href="https://lokalhistoriewiki.no/index.php?title=Ballstadlandet&amp;action=edit&amp;redlink=1" target="Ballstadlandet (siden finnes ikke)"><span style="color: #000000;"><span style="font-family: Aptos, serif;">Ballstadlandet</span></span></a></span><span style="color: #000000;"><span style="font-family: Aptos, serif;">, i tillegg til å være hjemmehavn til mange </span></span><span style="color: #0000ff;"><a href="https://lokalhistoriewiki.no/wiki/Sjark" target="Sjark"><span style="color: #000000;"><span style="font-family: Aptos, serif;">sjarker</span></span></a></span><span style="color: #000000;"><span style="font-family: Aptos, serif;"> av varierende størrelse. Havna er god og romslig, der de største båtene ligger i hovedhavna mellom Ballstadøya og Ballstadlandet.</span></span><span style="color: #000000;"><span style="font-family: Aptos, serif;"><strong> </strong></span></span><span style="font-family: Aptos, serif;">Mens </span><span style="font-family: Aptos, serif;"><strong>Ramsvik</strong></span><span style="font-family: Aptos, serif;"> og </span><span style="font-family: Aptos, serif;"><strong>Petvik</strong></span><span style="font-family: Aptos, serif;">, som jeg kommer tilbake til, synes å ha vært de gamle </span><span style="font-family: Aptos, serif;"><u>skipperleiene</u></span><span style="font-family: Aptos, serif;"> i Vestvågøy, var </span><span style="font-family: Aptos, serif;"><strong>Ballstad</strong></span><span style="font-family: Aptos, serif;"> et gammelt </span><span style="font-family: Aptos, serif;">kremmerleie</span><span style="font-family: Aptos, serif;"> hvor utliggerborgerne holdt til i sommertiden. Eiendommene var stort sett krongods med leietakere frem til begynnelsen av 1800-tallet, da den dansk-norske kongen kom i pengenød og begynte å selge eiendommene.</span></span></span></p>
+<figure class="post__image"><img loading="lazy" src="https://skankeforeningeninorge.github.io/skankeweb/media/posts/39/kart-Jentoftg.png" alt="" width="1387" height="1090" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://skankeforeningeninorge.github.io/skankeweb/media/posts/39/responsive/kart-Jentoftg-xs.png 640w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/39/responsive/kart-Jentoftg-sm.png 768w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/39/responsive/kart-Jentoftg-md.png 1024w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/39/responsive/kart-Jentoftg-lg.png 1366w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/39/responsive/kart-Jentoftg-xl.png 1600w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/39/responsive/kart-Jentoftg-2xl.png 1920w">
+<figcaption><strong>Kart over Moskenes</strong></figcaption>
+</figure>
+<p><span style="font-family: Times New Roman, serif;"><span style="font-size: medium;"><span style="font-family: Aptos, serif;">Sin første fastboende handelsmann fikk Ballstad i 18oo, da </span><span style="font-family: Aptos, serif;"><u>Skanke-ætlingen</u></span><span style="font-family: Aptos, serif;"> </span><span style="font-family: Aptos, serif;"><strong>Ole Hartvig Blix Hvid </strong></span><span style="font-family: Aptos, serif;">(1751 – 1808) overtok Ballstadøy ved makeskifte med slektningen og </span><span style="font-family: Aptos, serif;"><u>Skanke-ætlingen</u></span><span style="font-family: Aptos, serif;">, den mektige</span><span style="font-family: Aptos, serif;"><strong> Hartvig Mogenssøn Jentoft</strong></span><span style="font-family: Aptos, serif;"> (1704 – 1784) på </span><span style="font-family: Aptos, serif;"><strong>Petvik</strong></span><span style="font-family: Aptos, serif;">. Hartvig overtok storgården og skipperleiet Petvik i 1728 og bodder her som jekteskipper og gjestgiver til sin død i 1784. Han må hatt rettigheter også i Ballstad, da han i 1770 ses å ha betalt 2 riksdaler årlig i handelsskatt og 1 riksdaler i skipperskatt der. Han oppgis også som skipper og gjestgiver i Henningsvær. </span><span style="font-family: Aptos, serif;">Hartvig Mogensen Jentoft var en stordriver, som hadde opptil 3 jekter i drift, nemlig 2 større som seilte på Bergen, og en mindre, en såkalt tendring, som foretok kortere fraktturer. I Jektvik hadde han sine jektenaust og storbåtnaust. Her ble jektene satt på land i vinterhalvåret, og herav har Jektvik sitt navn. Hartvig Mogensen Jentoft vernet iherdig om sin bygdefarrett. Det kan man se av flere saker som han hadde gående ved Nordland lagting, som følge av krenkelse av hans rett av andre jekteskippere. Han drev også en tid handel med salt i Petvik. Saltet hadde han liggende lagret i en sjøpakkbod. Hartvig var gift med </span><span style="font-family: Aptos, serif;"><strong>Sara Johannesdatter Rasch </strong></span><span style="font-family: Aptos, serif;">(1714 – 1785), prestedatter fra Folda.</span></span></span></p>
+<p><span style="font-family: Times New Roman, serif;"><span style="font-size: medium;"><span style="font-family: Aptos, serif;">Nevnte </span><span style="font-family: Aptos, serif;"><strong>Ole Hartvig Blix Hvid</strong></span><span style="font-family: Aptos, serif;">, som er tippoldebarn av sogneprest i Bodin/Bodø og prost i Salten, </span><span style="font-family: Aptos, serif;"><strong>Hans Lauritzen Blix</strong></span><span style="font-family: Aptos, serif;"> (1596 – 1666), og gjennom ham Skanke-ætling, fikk gjest-giverbevilling i Ballstad den 22. februar 18oo. Avgiften var 18 rdl., så stedet har nok hatt en betydelig handel. Kort før sin død i 1808 ble han rammet av en ildebrann, som la våningshuset på Ballstadøy i aske. Etter ham ble kremmerleiet overtatt av Johan Tegnmann, opprinnelig fra Jemtland, som fikk gjestgiverbevilling her i 1810. Nytt våningshus stod ferdig på Ballstadøy ca. 1812. Etter Johans død drev enken gjestgiveriet videre, inntil sønnen Nils Tegnmann ovetok og drev handel der.</span></span></span></p>
+<figure class="post__image"><img loading="lazy"  src="https://skankeforeningeninorge.github.io/skankeweb/media/posts/39/Ballstadoy.png" alt="" width="800" height="506" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://skankeforeningeninorge.github.io/skankeweb/media/posts/39/responsive/Ballstadoy-xs.png 640w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/39/responsive/Ballstadoy-sm.png 768w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/39/responsive/Ballstadoy-md.png 1024w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/39/responsive/Ballstadoy-lg.png 1366w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/39/responsive/Ballstadoy-xl.png 1600w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/39/responsive/Ballstadoy-2xl.png 1920w"></figure>
+<figure class="post__image">
+<figcaption><strong>Eldre fotografi fra Ballstadøy med Jentoft-gården</strong></figcaption>
+</figure>
+<p class="align-left" align="center"><span style="font-family: Times New Roman, serif;"><span style="font-size: medium;"><span style="font-family: Aptos, serif;"><u>I 1862</u></span><span style="font-family: Aptos, serif;"> solgte Nils Tegnmann handelsstedet Ballstad til </span><span style="font-family: Aptos, serif;"><strong>Jakob Jørgensen Lind Jentoft</strong></span><span style="font-family: Aptos, serif;"> (1828 i Ramsvik – 1902 i Ballstad) </span><span style="font-family: Aptos, serif;"><u>(bilde t.v.).</u></span><span style="font-family: Aptos, serif;"> Han var oldebarn av nettopp omtalte </span><span style="font-family: Aptos, serif;"><strong>Hartvig Mogenssøn Jentoft</strong></span><span style="font-family: Aptos, serif;"> (1704 – 1784) på </span><span style="font-family: Aptos, serif;"><strong>Petvik</strong></span><span style="font-family: Aptos, serif;">, og således også </span><span style="font-family: Aptos, serif;"><u>Skanke-ætling</u></span><span style="font-family: Aptos, serif;">. Fra Hartvig går linjen videre nedover slik: Hartvigs sønn (Jakobs bestefar), </span><span style="font-family: Aptos, serif;"><strong>Mogens Hartvigssøn Jentoft </strong></span><span style="font-family: Aptos, serif;">(1747/8 på Petvik – 1790 på Ramsvik), drev handels-virksomnet på Æsøy og senere, som den første, begynte han forretningsvirksomhet i Stamsund. Fra faren overtok Mogens så gården samt skipperleiet og bygdefarstedet </span><span style="font-family: Aptos, serif;"><strong>Ramsvik</strong></span><span style="font-family: Aptos, serif;">. Mogens ble den </span><span style="font-family: Aptos, serif;"><u>første Jentoft i Ramsvik</u></span><span style="font-family: Aptos, serif;">. </span><span style="font-family: Aptos, serif;">Etter at han overtok Ramsvik, startet Mogens forretning der og drev etter datidens forhold ganske stort. <br>På auksjonen under skifte etter faren kjøpte han 10. des. 1785 hele 21 av boets gårder, som han betalte med 2.577 riksdaler.</span><span style="font-family: Arial, serif;"><strong> </strong></span><span style="font-family: Aptos, serif;">Mogens var gift med </span><span style="font-family: Aptos, serif;"><u>Skanke-ætlingen</u></span><span style="font-family: Aptos, serif;"> </span><span style="font-family: Aptos, serif;"><strong>Dorothea Beate Jørgensdatter Blix</strong></span><span style="font-family: Aptos, serif;"> (1747 i Kapstø, Bodin – 1823 i Ramsvik). <br>Mogens og Dorothea hadde 7 barn, herunder yngstesønnen, skipper og handelsmann </span><span style="font-family: Aptos, serif;"><strong>Jørgen Mogenssøn Blix Jentoft </strong></span><span style="font-family: Aptos, serif;">(1789 på Ramsvik – 1869 i Stamsund), </span><span style="font-family: Aptos, serif;"><u>Skanke-ætling</u></span><span style="font-family: Aptos, serif;">, og som overtok skipperleiet Ramsvik. Han var også forlikskommisær og et fremstående medlem av Buksnes og Hol Herredsstyre. Han var gift med </span><span style="font-family: Aptos, serif;"><u>Skanke-ætlingen </u></span><span style="font-family: Aptos, serif;"><strong>Christine Dorothea Pedersdatter Lind </strong></span><span style="font-family: Aptos, serif;">(1791 - 1870),</span><span style="font-family: Aptos, serif;"><strong> </strong></span><span style="color: #000000;"><span style="font-family: Aptos, serif;">datter av </span></span><span style="color: #000000;"><span style="font-family: Aptos, serif;"><strong><a href="https://vestraat.net/iea-o/p904.htm#i29440">Peder Jacobssøn Lind</a> </strong></span></span><span style="color: #000000;"><span style="font-family: Aptos, serif;">og </span></span><a href="https://vestraat.net/iea-o/p904.htm#i29441"><span style="color: #000000;"><span style="font-family: Aptos, serif;"><strong>Elen Dahl Hvid Blix</strong></span></span></a><span style="color: #000000;"><span style="font-family: Aptos, serif;"> (f. 1756), sistnevnte </span></span><span style="color: #000000;"><span style="font-family: Aptos, serif;"><u>Skanke-ætling</u></span></span><span style="color: #000000;"><span style="font-family: Aptos, serif;"> </span></span><span style="font-family: Aptos, serif;">på både fars- og morssiden. <br></span></span></span></p>
+<p class="align-left" align="center"><span style="font-family: Times New Roman, serif;"><span style="font-size: medium;"><span style="font-family: Aptos, serif;">Jørgen og Christine Dorothea hadde 6 barn, herunder ovennevnte </span><span style="font-family: Aptos, serif;"><strong>Jakob Jørgensen Lind Jentoft</strong></span><span style="font-family: Aptos, serif;"> (1828 i Ramsvik – 1902 i Ballstad), som vi da er tilbake til. Han ble væreier og handelsmann på Ballstadøy i 1862. </span></span></span></p>
+<figure class="post__image post__image--left"><img loading="lazy"  src="https://skankeforeningeninorge.github.io/skankeweb/media/posts/39/J.J.L.-Jentoft.png" alt="" width="378" height="480" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://skankeforeningeninorge.github.io/skankeweb/media/posts/39/responsive/J.J.L.-Jentoft-xs.png 640w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/39/responsive/J.J.L.-Jentoft-sm.png 768w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/39/responsive/J.J.L.-Jentoft-md.png 1024w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/39/responsive/J.J.L.-Jentoft-lg.png 1366w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/39/responsive/J.J.L.-Jentoft-xl.png 1600w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/39/responsive/J.J.L.-Jentoft-2xl.png 1920w"></figure>
+<p class="align-left" align="center"><span style="font-family: Times New Roman, serif;"><span style="font-size: medium;"><span style="font-family: Aptos, serif;">Han ble den </span><span style="font-family: Aptos, serif;"><u>første Jentoft på kremmerleiet Ballstad</u></span><span style="font-family: Aptos, serif;">, hvis vi ser bort fra oldefaren Hartvig Mogenssøn Jentoft (1704 – 1784) på Petvik, omtalt ovenfor, og som</span><span style="font-family: Aptos, serif;"><strong> </strong></span><span style="font-family: Aptos, serif;">også hadde en tilknytning til eiendommen på Ballstadøy, men som ikke bodde der. Jakob var også dampskipsekspeditør, poståpner, samt eier av flere farttøyer, notbruk m.v. Han drev også i Kremmervika, og hadde rorbuer til 1200 mann. Han satt på Ballstad i 40 år. Jakob skal ha bygget seg opp en stor formue etter bybrannen i Stavanger i 1860, den såkalte «Holmenbrannen», da Jakob seilte til Holland og kjøpte store partier teglsten til gjenoppbygging av byen. Jakob Lind Jørgenssøn Jentoft var gift med </span><span style="font-family: Aptos, serif;"><u>Skanke-ætlingen</u></span><span style="font-family: Aptos, serif;"> </span><span style="font-family: Aptos, serif;"><strong>Anne Dorothea Schønning </strong></span><span style="font-family: Aptos, serif;">(1837 – 1919), datter av kjøpmann Peder Slangerup Schønning og Else Maria f. Mosling.</span></span></span></p>
+<p><span style="font-family: Times New Roman, serif;"><span style="font-size: medium;"><span style="font-family: Aptos, serif;">Etter Jakob Lind Jentoft og Anne Dorothea gikk handelsvirksomheten i 1902 over til sønnen </span><span style="font-family: Aptos, serif;"><strong>Jørgen Jakobsen Blix Jentoft</strong></span><span style="font-family: Aptos, serif;"> (1862 i Ramsvik – 1942 Drammen </span></span></span><span style="font-family: Times New Roman, serif;"><span style="font-size: medium;"><span style="font-family: Aptos, serif;">sykehus), som fortsatte i samme spor som hadelsmann og væreier. Stedet ble stadig utvidet og modernisert, så det ble regnet som ett av Lofotens største og mest tidsmessige fiskevær. I 1910 skal det ha vært 10.000 fiskere der under Lofotfisket</span>. <span style="font-family: Aptos, serif;">Til hovedbruket hørte da også stor butikkbygning, to store pakkhus med kaier, 25-30 rorbuer og et stort hjellbruk. Stedet hadde dampskipsanløp og stort kullager. Jørgen var i første ekteskap (1888) gift med </span><span style="font-family: Aptos, serif;"><strong>Borghild Alexandra Foslie </strong></span><span style="font-family: Aptos, serif;">(1864 – 1921) fra Borge, </span><span style="color: #000000;"><span style="font-family: Aptos, serif;">datter av <a href="https://vestraat.net/iea-o/p985.htm#i31944">Jens Alfsen Foslie</a> og <a href="https://vestraat.net/iea-o/p610.htm#i20658">Anne Rebekka Mühlenphort Hegelund</a></span></span><span style="color: #000000;"><span style="font-family: Aptos, serif;">.</span></span><span style="font-family: Aptos, serif;"> I andre ekteskap (1928) var Jørgen gift med Ragna Reiersen (1884 – 1943).</span></span></span></p>
+<figure class="post__image"><img loading="lazy" src="https://skankeforeningeninorge.github.io/skankeweb/media/posts/39/Ballstad-havn.png" alt="" width="1200" height="771" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://skankeforeningeninorge.github.io/skankeweb/media/posts/39/responsive/Ballstad-havn-xs.png 640w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/39/responsive/Ballstad-havn-sm.png 768w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/39/responsive/Ballstad-havn-md.png 1024w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/39/responsive/Ballstad-havn-lg.png 1366w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/39/responsive/Ballstad-havn-xl.png 1600w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/39/responsive/Ballstad-havn-2xl.png 1920w">
+<figcaption>
+<p align="center"><span style="font-family: Times New Roman, serif;"><span style="font-size: medium;"><span style="font-family: Aptos, serif;"><span style="font-size: small;"><strong>Ballstad havn rundt århundreskiftet 18/1900, på Jørgen Blix Jentofts tid. Jentoft-gården i bakgrunnen. <br></strong></span></span></span></span><span style="font-family: Times New Roman, serif;"><span style="font-size: medium;"><span style="font-family: Aptos, serif;"><span style="font-size: small;"><i><strong>Foto: Nordlandsmuseet.</strong></i></span></span></span></span></p>
+</figcaption>
+</figure>
+<figure class="post__image"><img loading="lazy" src="https://skankeforeningeninorge.github.io/skankeweb/media/posts/39/Jentoft-familie.png" alt="" width="340" height="283" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://skankeforeningeninorge.github.io/skankeweb/media/posts/39/responsive/Jentoft-familie-xs.png 640w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/39/responsive/Jentoft-familie-sm.png 768w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/39/responsive/Jentoft-familie-md.png 1024w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/39/responsive/Jentoft-familie-lg.png 1366w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/39/responsive/Jentoft-familie-xl.png 1600w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/39/responsive/Jentoft-familie-2xl.png 1920w">
+<figcaption><span style="font-family: Times New Roman, serif;"><span style="font-size: medium;"><span style="font-family: Aptos, serif;"><span style="font-size: small;"><strong>Jørgen Blix Jentoft (1862 – 1942) med hustru Borghild Alexandra, f. Foslie (1864 – 1921) og deres barn: <br>Anna (1890), Jens (1892), Rolf (1898), Borghild (1900) og Leif (1902).</strong></span></span></span></span></figcaption>
+</figure>
+<p><span style="font-family: Times New Roman, serif;"><span style="font-size: medium;"><span style="font-family: Aptos, serif;">Jørgen og Borghild fikk 8 barn, herunder sønnene </span><span style="color: #000000;"><span style="font-family: Aptos, serif;"><strong><a href="https://vestraat.net/iea-o/p2355.htm#i69145">Jens Foslie Jentoft</a> </strong></span></span><span style="color: #000000;"><span style="font-family: Aptos, serif;">(1892 på Ballstadøy – 1964 i Bilbao) og </span></span><span style="color: #000000;"><span style="font-family: Aptos, serif;"><strong>Rolf Jentoft</strong></span></span><span style="color: #000000;"><span style="font-family: Aptos, serif;"> (1898 på Ballstadøy – 1987 på Ballstadøy). <br></span></span><span style="font-family: Aptos, serif;">Sønnen </span><span style="font-family: Aptos, serif;"><strong>Jens Foslie Jentoft</strong></span><span style="font-family: Aptos, serif;"> overtok driften, men bosatte seg i Bilbao i Spania i 1920, hvor han virket som skipsmegler og som norsk generalkonsul. </span><span style="font-family: Aptos, serif;">I 1923 giftet han seg med Raquel de Beitia (f. 1901) fra Bilbao. </span><span style="font-family: Aptos, serif;">Det ble derfor broren </span><span style="font-family: Aptos, serif;"><strong>Rolf Jentoft</strong></span><span style="font-family: Aptos, serif;"> (1898 – 1987) som fra 1923 overtok virksomheten på Ballstadøy og drev den videre til 1948. Han eksporterte også fersk fisk til det engelske markedet. Rolf Jentoft var gift med <br></span><span style="color: #000000;"><span style="font-family: Aptos, serif;"><strong>Hjørdis Dorothea Knudsen</strong></span></span><span style="color: #000000;"><span style="font-family: Aptos, serif;"> (1897 Arendal – 1982 Ballstad).</span></span></span></span></p>
+<p><span style="font-family: Times New Roman, serif;"><span style="font-size: medium;"><span style="color: #000000;"><span style="font-family: Aptos, serif;">Fra 1948 overtok så sønnen </span></span><span style="color: #000000;"><span style="font-family: Aptos, serif;"><strong>Jørgen Blix Jentoft </strong></span></span><span style="color: #000000;"><span style="font-family: Aptos, serif;">(1924 Ballstad – 2015 Ballstad) virksomheten på Ballstadøy, hvor han drev firmaet som disponent til 1992. Han var gift med </span></span><span style="color: #000000;"><span style="font-family: Aptos, serif;"><strong>Ruth Fredrikke Dahl</strong></span></span><span style="color: #000000;"><span style="font-family: Aptos, serif;"> (1920 Soløy i Lavangen – 2021 Ballstad). Jørgen var valgt som vararepresentant til Stortinget 1958 – 1961 for Venstre i Nordland. </span></span></span></span></p>
+<p class="western"><span style="color: #000000;"><span style="font-size: medium;">Etter Jørgen og Ruth Fredrikke ble det sønnen </span></span><span style="color: #000000;"><span style="font-size: medium;"><strong>Jens Foslie Jentoft jr</strong></span></span><span style="color: #000000;"><span style="font-size: medium;">. (f.1953) som overtok eiendommen Jentoft-gården på Ballstadøy</span></span><span style="font-size: medium;"> og i 2016 </span><span style="color: #000000;"><span style="font-size: medium;">flyttet han som nevnt inn i hovedhust, og begynte det store restarureringsprosjektet. </span></span><span style="font-size: medium;">Etter å ha brukt mye tid og penger på å pusse opp og ivareta den over 200 år gamle væreiergården, har han etter hvert også tatt tak i de omkringliggende bygningene. Bakeriet, kaffehuset og det gamle posthuset har alle fått tilbake sitt opprinnelige utseende. Det rundt 400 år gamle kaffehuset menerJens at er et av de eldste, om ikke det eldste i Lofoten. Familien har hatt stor betydning for utviklingen av Ballstad, og for så vidt store deler av Lofoten. </span><span style="color: #000000;"><span style="font-size: medium;">Jens hadde </span></span><span style="font-size: medium;">lenge interessert seg for familiens væreierhistorie. Blant annet derfor gikk han også løs på det gamle fjøset fra 1881, og i 2024 kunne han i bygget åpne det familie-drevne fiskeri- og væreiermuseet. På stedet hvor Familien Jentoft har drevet produksjon av fiske i hele 6 generasjoner. Han burde være selvskreven til en kulturvernpris!<br>– Jeg føler jo en forpliktelse for å ta vare på bygningene og det som er her, sier Jens Foslie Jentoft.</span></p>
+<figure class="post__image"><figure class="post__image"><img loading="lazy"  src="https://skankeforeningeninorge.github.io/skankeweb/media/posts/39/J.F.Jentoft.png" alt="" width="1600" height="900" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://skankeforeningeninorge.github.io/skankeweb/media/posts/39/responsive/J.F.Jentoft-xs.png 640w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/39/responsive/J.F.Jentoft-sm.png 768w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/39/responsive/J.F.Jentoft-md.png 1024w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/39/responsive/J.F.Jentoft-lg.png 1366w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/39/responsive/J.F.Jentoft-xl.png 1600w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/39/responsive/J.F.Jentoft-2xl.png 1920w"></figure>
+<figcaption>
+<h1 class="western" align="center"><span style="color: #000000;"><span style="font-family: Aptos, serif;"><span style="font-size: small;"><strong>Jens Foslie Jentoft på tunet til Jentoft-gården, ved låven hvor Væreiermuseet ble åpnet i 2024.</strong></span></span></span></h1>
+</figcaption>
+</figure>
+<figure class="post__image"><img loading="lazy" src="https://skankeforeningeninorge.github.io/skankeweb/media/posts/39/hovedinng-Jentoftgarden.png" alt="" width="640" height="480" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://skankeforeningeninorge.github.io/skankeweb/media/posts/39/responsive/hovedinng-Jentoftgarden-xs.png 640w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/39/responsive/hovedinng-Jentoftgarden-sm.png 768w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/39/responsive/hovedinng-Jentoftgarden-md.png 1024w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/39/responsive/hovedinng-Jentoftgarden-lg.png 1366w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/39/responsive/hovedinng-Jentoftgarden-xl.png 1600w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/39/responsive/hovedinng-Jentoftgarden-2xl.png 1920w">
+<figcaption><strong>Skanke-ætlingene Eldar Stig Andersen og Sigfus Kristmannssson på den </strong><br><strong>monumentale trappen til hovedinngangen på Jentoft-gården i Ballstad.</strong></figcaption>
+</figure>
+<figure class="post__image"><img loading="lazy" src="https://skankeforeningeninorge.github.io/skankeweb/media/posts/39/Ballstadlandet-og-Ballstadoy.jpg" alt="" width="1280" height="960" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://skankeforeningeninorge.github.io/skankeweb/media/posts/39/responsive/Ballstadlandet-og-Ballstadoy-xs.jpg 640w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/39/responsive/Ballstadlandet-og-Ballstadoy-sm.jpg 768w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/39/responsive/Ballstadlandet-og-Ballstadoy-md.jpg 1024w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/39/responsive/Ballstadlandet-og-Ballstadoy-lg.jpg 1366w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/39/responsive/Ballstadlandet-og-Ballstadoy-xl.jpg 1600w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/39/responsive/Ballstadlandet-og-Ballstadoy-2xl.jpg 1920w">
+<figcaption>
+<p align="center"><strong><span style="font-family: Times New Roman, serif;"><span style="font-size: medium;"><span style="font-family: Aptos, serif;"><span style="font-size: small;">Ballstadlandet og Ballstadøy i Vestvågøy i dag. Jenfoft-gården midt på bildet.</span></span></span></span></strong></p>
+</figcaption>
+</figure>
+<p><span style="font-family: Times New Roman, serif;"><span style="font-size: medium;"><span style="font-family: Aptos, serif;"><span style="font-size: large;"><strong>Litt mer om Jentoft-slekten og dens tilknytning til Skanke-slekten.</strong></span></span></span></span></p>
+<p><span style="font-family: Times New Roman, serif;"><span style="font-size: medium;"><span style="font-family: Aptos, serif;"><strong>Jentoft-slekten</strong></span><span style="font-family: Arial, serif;"><strong> </strong></span><span style="font-family: Aptos, serif;">er meget gammel i Norge, og vidt forgrenet, særlig i Nord-Norge, hvor den har gitt sine kraftigste skudd. Slekten skal ha sin opprinnelse fra Gentofte på Sjælland i Danmark, og derav slektsnavnet som ble benyttet i ettertid i Norge. Slekten kom antagelig til Norge på begynnelsen av 1600-tallet, muligens tidligere. Men den første kjente av slekten her i landet var sogneprest i Sunndal i Møre og Romsdal og deretter kannik og sogneprest i</span><span style="font-family: Aptos, serif;"><strong> </strong></span><span style="font-family: Aptos, serif;">Domkirken og Vor Frue kirke i Trondheim, </span><span style="font-family: Aptos, serif;"><strong>Anders Rasmussen Jentoft </strong></span><span style="font-family: Aptos, serif;">(ca. 1582 i Gentofte, Danmark -</span><span style="font-family: Aptos, serif;"><strong> </strong></span><span style="font-family: Aptos, serif;">1629 Buksnes?). Han døde angivelig under en pestlignende epidemi i Buksnes, Vestvågøy. I kraft av sin prestestilling i Trondheim var Anders også sokneprest til Lofoten prestegjeld, med Buksnes som hovedkirke, men han var bosatt i Trondheim, idet embetene i Lofoten dengang bestyrtes av stedlige visepastorer eller kapellaner. Anders var gift med </span><span style="font-family: Aptos, serif;"><strong>Karen Hansdatter </strong></span><span style="font-family: Aptos, serif;">(ca. 1582 muligens på Frösön i Jemtland – etter 1687). </span></span></span></p>
+<p><span style="font-family: Times New Roman, serif;"><span style="font-size: medium;"><span style="font-family: Aptos, serif;">Anders og Karen hadde sønnen </span><span style="font-family: Aptos, serif;"><strong>Hans Andersen Jentoft</strong></span><span style="font-family: Aptos, serif;"> (1613 i Trondheim – 1642 på Hustad i Bud, Møre og Romsdal). Han var residerende kapellan i Bud i Møre og Romsdal, og var gift med </span><span style="font-family: Aptos, serif;"><strong>Sophie Lauritzdatter Arctander</strong></span><span style="font-family: Aptos, serif;"> (1613 på Li prestegård i Inderøy – 1650 Bud i Møre og Romsdal).</span></span></span></p>
+<p><span style="font-family: Times New Roman, serif;"><span style="font-size: medium;"><span style="font-family: Aptos, serif;">Hans og Sophie hadde sønnen </span><span style="font-family: Aptos, serif;"><strong>Hans Hanssøn Jentoft</strong></span><span style="font-family: Aptos, serif;"> (1641 Bud, Møre og Romsdal – 1718 på Borg prestegård i Borge, Vestvågøy). Han var residerende kapellan/visepastor <br>i Borge, Vestvågøy 1670 – 1718, jfr. det som er sagt ovenfor om bestyrelsen av Lofoten prestegjeld fra Trondheim. Hans Hanssøn Jentoft giftet seg i 1671 med sitt søskenbarn </span><span style="font-family: Aptos, serif;"><strong>Maren Christophersdatter Graae</strong></span><span style="font-family: Aptos, serif;"> (1652 Berg, Hol, Vestvågøy – ca. 1688 Borg preste-gård, Borge, Vestvågøy). Etter at Maren døde, giftet Hans seg igjen i 1689, med </span><span style="font-family: Aptos, serif;"><strong>Ingeborg Hartvigsdatter Schøning</strong></span><span style="font-family: Aptos, serif;"> (1659 – 1734), datter av sogneprest i Steigen,<br></span><span style="font-family: Aptos, serif;"><strong>Hartvig Arnessøn Solle (Schøning</strong></span><span style="font-family: Aptos, serif;">) og </span><span style="font-family: Aptos, serif;"><strong>Ingeborg Hansdatter Blix</strong></span><span style="font-family: Aptos, serif;">, som jeg kommer tilbake til nedenfor. Så vidt jeg kan se var da Hans Hanssøn Jentofts andre ektefelle søster til hans svigersønn, jfr. nedenfor. <br><br></span><span style="font-family: Aptos, serif;"><strong>Første forening av slektene Jentoft og Skanke.</strong></span></span></span></p>
+<p><span style="font-family: Times New Roman, serif;"><span style="font-size: medium;"><span style="font-family: Aptos, serif;">Hans Hanssøn Jentoft og Maren hadde datteren </span><span style="font-family: Aptos, serif;"><strong>Anna Hansdatter Jentoft</strong></span><span style="font-family: Aptos, serif;"> (1679 Borg prestegård, Borge, Vestvågøy – 1755 Lyngvær, Vågan). Hun var gift med </span><span style="font-family: Aptos, serif;"><u>Skanke-ætlingen</u></span><span style="font-family: Aptos, serif;"> </span><span style="font-family: Aptos, serif;"><strong>Mogens Hartvigssøn (Schøning) </strong></span><span style="font-family: Aptos, serif;">(1668 Laskestad – 1745 Lyngvær), som var handelsmann og jekteskipper i Lyngvær og senere i Henningsvær og som eide flere gårdern i Buksnes på Vestvågøy. Og med dette ekteskapet kommer så vidt jeg kan se for </span><span style="font-family: Aptos, serif;"><u>første gang </u></span><span style="font-family: Aptos, serif;"><strong>Skanke-ætten</strong></span><span style="font-family: Aptos, serif;"> inn i Jentoft-ætten, slik at etterkommere på denne linjen også er Skanke-ætt. Det har seg slik at nevnte Mogens Hartvigsssøn (Schøning) var sønn av </span><span style="font-family: Aptos, serif;"><strong>Ingeborg Hansdatter Blix</strong></span><span style="font-family: Aptos, serif;"> (1632 Bodin prestegård, Bodø – 1714 Laskestad prestegård i Steigen) og den nettopp nevnte </span><span style="font-family: Aptos, serif;"><strong>Hartvig Arnessøn Solle (Schøning) </strong></span><span style="font-family: Aptos, serif;">(1611 Hamarøy – 1691 Laskestad prestegård i Steigen), som var sogneprest i Steigen og av gammel presteætt. Ingeborg Handatter Blix var datter av sogneprest i Bodin og prost i Salten </span><span style="font-family: Aptos, serif;"><strong>Hans Lauritzen Blix</strong></span><span style="font-family: Aptos, serif;"> (1596 Sunne, Jemtland – 1666 Bodin prestegård, Bodø) og </span><span style="font-family: Aptos, serif;"><strong>Ingeborg Svendsdatter</strong></span><span style="font-family: Aptos, serif;"> (ca. 1603 Trondheim – 1688 Alstad, Bodin). Prost Hans Laurtzen Blix var av Skanke-ætt sannsynligvis både på fars- og morssiden (sogneprest i Oviken i Jemtland, </span><span style="font-family: Aptos, serif;"><strong>Lauritz Mogensson Blix </strong></span><span style="font-family: Aptos, serif;">(og Skanke)</span><span style="font-family: Aptos, serif;"><strong> </strong></span><span style="font-family: Aptos, serif;">(ca. 1545 – 1621) og </span><span style="font-family: Aptos, serif;"><strong>Gullov Mogens-dotter</strong></span><span style="font-family: Aptos, serif;"> (Skanke og Blix) (ca. 1560 – 1629)), tilbake til væpner/ridder </span><span style="font-family: Aptos, serif;"><strong>Jens Karlsson (Skanke)</strong></span><span style="font-family: Aptos, serif;"> (ca. 1407 – 1488) til Billsta og Öd, og til hans far væpner </span><span style="font-family: Aptos, serif;"><strong>Karl Pedersson</strong></span><span style="font-family: Aptos, serif;"> </span><span style="font-family: Aptos, serif;"><strong>(Skanke)</strong></span><span style="font-family: Aptos, serif;"> (ca. 1360 – 1430) på Hov i Hackås, Jemtland.</span></span></span></p>
+<p><span style="font-family: Times New Roman, serif;"><span style="font-size: medium;"><span style="font-family: Aptos, serif;">Så tilbake til Skanke-ætlingen, handelsmann og jekteskipper på Lyngvær og Henningsvær </span><span style="font-family: Aptos, serif;"><strong>Mogens Hartvigssøn (Schøning) </strong></span><span style="font-family: Aptos, serif;">(1668 Steigen – 1745 Lyngvær) og ektefelle </span><span style="font-family: Aptos, serif;"><strong>Anna Hansdatter Jentoft</strong></span><span style="font-family: Aptos, serif;"> (1679 Borg prestegård, Borge, Vestvågøy – 1755 Lyngvær, Vågan). De hadde sønnen </span><span style="font-family: Aptos, serif;"><strong>Hartvig Mogenssøn Jentoft</strong></span><span style="font-family: Aptos, serif;"> (1704 Lyngvær, Vågan – 1784 Petvik), gift med</span><span style="font-family: Aptos, serif;"><strong> Sara Johannesdatter Rasch </strong></span><span style="font-family: Aptos, serif;">(1714 – 1785), prestedatter fra Folda. Det var denne Hartvig som vi begynte med ovenfor, og som i 1728 overtok skipperleiet og gården </span><span style="font-family: Aptos, serif;"><strong>Petvik</strong></span><span style="font-family: Aptos, serif;"> og ble mektig handelsmann, jekteskipper og gjestgiver der. Den 18. desember 1767 makeskiftet Hartvig Mogensen Jentoft til seg gården </span><span style="font-family: Aptos, serif;"><strong>Ramsvik</strong></span><span style="font-family: Aptos, serif;"> mot gården Reppe i Buksnes, som Jentoft hadde kjøpt av sin slektning, sokneprest til Kvæfjord, Peder Leth. Gården var da bortforpaktet til Hans Ulrik Rist, som drev jektebruk og nektet å fraflytte gården Ramsvik. Ved Steigen lagmannsretts dom av 2. nov. 1771 ble det avsagt dom for at Hans Rist straks hadde å fraflytte gården Ramsvik og betale sakens omkostninger. Ved gavebrev av 6. mars 1769, gir Hartvig Mogensen Jentoft gården Ramsvik til sønnen, </span><span style="font-family: Aptos, serif;"><strong>Mogens Hartvigssøn Jentoft </strong></span><span style="font-family: Aptos, serif;">(1747/8 Petvik – 1790 Ramsvik). Han hadde fra 1. april 1775 hatt kongelig privilegium til å drive gjestgiveri i Stamsund og Æsøy.</span><span style="font-family: Arial, serif;"><strong> </strong></span><span style="font-family: Aptos, serif;">Etter at han overtok Ramsvik, startet han forretning her og drev etter datidens forhold ganske stort.</span><span style="font-family: Arial, serif;"><strong> </strong></span><span style="font-family: Aptos, serif;">Mogens var gift med </span><span style="font-family: Aptos, serif;"><strong>Dorothea Beate Jørgensdatter Blix </strong></span><span style="font-family: Aptos, serif;">(1747 – 1823), datter av </span><span style="font-family: Aptos, serif;"><u>Skanke-ætlingene</u></span><span style="font-family: Aptos, serif;">, handelsmann på Kapstø, Bodin, <br></span><span style="font-family: Aptos, serif;"><strong>Jørgen Erikssøn Blix </strong></span><span style="font-family: Aptos, serif;">(1707 – 1767) og </span><span style="font-family: Aptos, serif;"><strong>Maren</strong></span><span style="font-family: Aptos, serif;"> </span><span style="font-family: Aptos, serif;"><strong>Michelsdatter Hvid/Blix</strong></span><span style="font-family: Aptos, serif;"> (ca. 1717 – 1798). </span><span style="font-family: Aptos, serif;"><strong>Maren </strong></span><span style="font-family: Aptos, serif;">var etterkommer av ovenfor omtalte prost i Salten, sogneprest i Bodin, Hans Lauritzen Blix (1596 – 1666), på Skanke-linje som nevnt for ham. </span><span style="font-family: Aptos, serif;"><strong>Jørgen </strong></span><span style="font-family: Aptos, serif;">er Skanke-ætling via sogneprest i Rödön i Jemtland Mogens Olofsson Blix (ca. 1510 Rödön – ca. 1560 Faxnälden) tilbake til væpner/ridder </span><span style="font-family: Aptos, serif;"><strong>Jens Karlsson (Skanke)</strong></span><span style="font-family: Aptos, serif;"> (ca. 1407 – 1488) til Billsta og Öd, og til hans far væpner </span><span style="font-family: Aptos, serif;"><strong>Karl Pedersson</strong></span><span style="font-family: Aptos, serif;"> </span><span style="font-family: Aptos, serif;"><strong>(Skanke)</strong></span><span style="font-family: Aptos, serif;"> (ca. 1360 – 1430) på Hov i Hackås, Jemtland.</span></span></span></p>
+<p><span style="font-family: Times New Roman, serif;"><span style="font-size: medium;"><span style="font-family: Aptos, serif;">Og da er vi tilbake til der vi begynte innledningsvis. Her fortsetter jeg med anetavle fra første generasjon av den «forente» Jentoft-/Blix-/Skanke-ætt, ned til nåværende eier av Jentoft-gården på Ballstadøy, Jens Foslie Jentoft (Skanke-ætt i </span><span style="font-family: Aptos, serif;"><strong>fet</strong></span><span style="font-family: Aptos, serif;"> skrift):</span></span></span></p>
+<p class="align-left" align="center"><span style="font-family: Times New Roman, serif;"><span style="font-size: medium;"><span style="font-family: Aptos, serif;">Handelsmann og jekteskipper på Lyngvær og Henningsvær <br></span><span style="font-family: Aptos, serif;"><strong>Mogens Hartvigssøn (Schøning) </strong></span><span style="font-family: Aptos, serif;">(1668 Laskestad, Steigen – 1745 Lyngvær, Vågan)<br></span><span style="font-family: Aptos, serif;"><u>g.m. Anna Hansdatter Jentoft (1679 Borg prestegård, Borge, Vestvågøy – 1755 Lyngvær)<br></u></span><span style="font-family: Aptos, serif;">(</span><span style="font-family: Aptos, serif;"><u>Datter av visepastor i Borge, Vestvågøy, Hans Hansen Jentoft (1641 – 1718)<br></u></span><span style="font-family: Aptos, serif;"><span style="font-size: small;">(Dette er første forening jeg har funnet av slektene Jentoft og Blix/Skanke i Lofoten.)</span></span><span style="font-family: Aptos, serif;"><br><br>Handelsmann, jekteskipper og gjestgiver på Petvik</span><span style="font-family: Aptos, serif;"><strong><br>Hartvig Mogenssøn Jentoft</strong></span><span style="font-family: Aptos, serif;"> (1704 Lyngvær, Vågan – 1784 Petvik, Buksnes) <br></span><span style="font-family: Aptos, serif;"><u>g.m.</u></span><span style="font-family: Aptos, serif;"><u><strong> </strong></u></span><span style="font-family: Aptos, serif;"><u>Sara Johannesdatter Rasch</u></span><span style="font-family: Aptos, serif;"><u><strong> </strong></u></span><span style="font-family: Aptos, serif;"><u>(1714 – 1785), prestedatter fra Folda</u></span><span style="font-family: Aptos, serif;"> <br><br>Handelsmann i Stamsund og Æsøy, senere i Ramsvik, som han overtok av faren</span><span style="font-family: Aptos, serif;"><strong><br>Mogens Hartvigssøn Jentoft </strong></span><span style="font-family: Aptos, serif;">(1747/8 Petvik – 1790 Ramsvik) <br></span><span style="font-family: Aptos, serif;"><u>g.m. </u></span><span style="font-family: Aptos, serif;"><u><strong>Dorothea Beate Jørgensdatter Blix </strong></u></span><span style="font-family: Aptos, serif;"><u>(1747 – 1823)</u></span><span style="font-family: Aptos, serif;"><br></span><span style="font-family: Aptos, serif;"><span style="font-size: small;">(Dtr. av </span></span><span style="font-family: Aptos, serif;"><span style="font-size: small;"><u>Skanke-ætlingene</u></span></span><span style="font-family: Aptos, serif;"><span style="font-size: small;">, handelsmann, gjestgiver og skipper på</span></span><span style="font-family: Aptos, serif;"><span style="font-size: small;"><u> </u></span></span><span style="font-family: Aptos, serif;"><span style="font-size: small;">Kapstø, Bodin <br></span></span><span style="font-family: Aptos, serif;"><span style="font-size: small;"><strong>Jørgen Erikssøn Blix </strong></span></span><span style="font-family: Aptos, serif;"><span style="font-size: small;">(1707 – 1767) og </span></span><span style="font-family: Aptos, serif;"><span style="font-size: small;"><strong>Maren</strong></span></span><span style="font-family: Aptos, serif;"><span style="font-size: small;"> </span></span><span style="font-family: Aptos, serif;"><span style="font-size: small;"><strong>Michelsdatter Hvid Blix</strong></span></span><span style="font-family: Aptos, serif;"><span style="font-size: small;"> (ca. 1717 – 1798)<br>Jørgen og Maren er begge Skanke-ætlinger på forskjellige linjer tilbake til væpner/ridder <br>Jens Karlsson (Skanke) (ca. 1407 – 1488) til Billsta og Öd, og til hans far væpner Karl Pedersson (Skanke) (ca.1360 – 1430) på Hov i Hackås, Jemtland, jfr. ovenfor.)<br><br></span></span><span style="font-family: Aptos, serif;">Skipper og handelsmann på Ramsvik<br></span><span style="font-family: Aptos, serif;"><strong>Jørgen Mogenssøn Blix Jentoft </strong></span><span style="font-family: Aptos, serif;">(1789 på Ramsvik – 1869 i Stamsund) <br></span><span style="font-family: Aptos, serif;"><u>g.m.</u></span><span style="font-family: Aptos, serif;"><u><strong> Christine Dorothea Pedersdatter Lind </strong></u></span><span style="font-family: Aptos, serif;"><u>(1791 – 1870)</u></span><span style="font-family: Aptos, serif;"><br></span><span style="font-family: Aptos, serif;"><span style="font-size: small;">(Datter av </span></span><span style="color: #000000;"><span style="font-family: Aptos, serif;"><span style="font-size: small;"><a href="https://vestraat.net/iea-o/p904.htm#i29440">Peder Jacobsen Lind</a> og </span></span></span><span style="color: #000000;"><span style="font-family: Aptos, serif;"><span style="font-size: small;"><strong>Elen Dahl Hvid Blix</strong></span></span></span><span style="color: #000000;"><span style="font-family: Aptos, serif;"><span style="font-size: small;"> (f. 1756), sistnevnte søster <br></span></span></span></span></span><span style="font-family: Times New Roman, serif;"><span style="font-size: medium;"><span style="color: #000000;"><span style="font-family: Aptos, serif;"><span style="font-size: small;">av ovennevnte Maren Michelsdatter Hvid Blix og derved også </span></span></span><span style="color: #000000;"><span style="font-family: Aptos, serif;"><span style="font-size: small;"><u>Skanke-ætling</u></span></span></span><span style="color: #000000;"><span style="font-family: Aptos, serif;"><span style="font-size: small;"> </span></span></span><span style="font-family: Aptos, serif;"><span style="font-size: small;">på både fars- og morssiden.)<br><br></span></span><span style="font-family: Aptos, serif;">Væreier, handelsmann, dampskipsekspeditør og poståper i Ballstad, <br></span><span style="font-family: Aptos, serif;">den første </span><span style="font-family: Aptos, serif;"><u>Jentoft</u></span><span style="font-family: Aptos, serif;"> på kremmerleiet Ballstad fra 1862</span><span style="font-family: Aptos, serif;"><strong><br>Jakob Jørgensen Lind Jentoft </strong></span><span style="font-family: Aptos, serif;">(1828 Ramsvik – 1902 Ballstad)<br></span><span style="font-family: Aptos, serif;"><u>1862 g.m. </u></span><span style="font-family: Aptos, serif;"><u><strong>Anne Dorothea Schøning</strong></u></span><span style="font-family: Aptos, serif;"><u> (1837 Narvik – 1919 Ballstad</u></span><span style="font-family: Aptos, serif;">)<br></span><span style="font-family: Aptos, serif;"><span style="font-size: small;">(Hun var datter av kjøpmann </span></span><span style="font-family: Aptos, serif;"><span style="font-size: small;"><strong>Peder Slangerup Schønning</strong></span></span><span style="font-family: Aptos, serif;"><span style="font-size: small;"> (1810 Lødingen – 1869 Stamsund) og av både Jentoft- og Skanke-ætt. Sistnevnte tilbake via prost i Salten og sogneprest i Bodin Hans Lauritzen Blix (1596 – 1666) til </span></span><span style="font-family: Aptos, serif;"><span style="font-size: small;">væpner/ridder Jens Karlsson (Skanke) (ca. 1407 – 1488) til Billsta og Öd, og til hans far væpner Karl Pedersson (Skanke) (ca. 1360 – 1430) på Hov i Hackås.) <br><br></span></span><span style="font-family: Aptos, serif;">Handelsmann og væreier i Ballstad<br></span><span style="font-family: Aptos, serif;"><strong>Jørgen Jakobsen Blix Jentoft </strong></span><span style="font-family: Aptos, serif;">(1862 Ramsvik – 1942 Drammen)<br></span><span style="font-family: Aptos, serif;"><u>1888 g.m. 1. Borghild Alexandra Foslie (1864 Borge, Vestvågøy – 1921 Ballstad)<br></u></span><span style="font-family: Aptos, serif;">Væreier og handelsmann i Ballstad<br></span><span style="font-family: Aptos, serif;"><strong>Rolf Jentoft</strong></span><span style="font-family: Aptos, serif;"> (1898 Ballstad – 1987 Ballstad)<br></span><span style="font-family: Aptos, serif;"><u>1923 g.m. Hjørdis Dorothea Knudsen (1897 Arendal – 1982 Ballstad)<br></u></span><span style="font-family: Aptos, serif;"><br>Væreier og disponent i Ballstad<br></span><span style="color: #000000;"><span style="font-family: Aptos, serif;"><strong>Jørgen Blix Jentoft </strong></span></span><span style="color: #000000;"><span style="font-family: Aptos, serif;">(1924 Ballstad – 2015 Ballstad)<br></span></span><span style="color: #000000;"><span style="font-family: Aptos, serif;"><u>1947 g.m. Ruth Fredrikke Dahl (1920 Soløy i Lavangen – 2021 Ballstad)</u></span></span></span></span></p>
+<p class="align-left" align="center"><span style="font-family: Times New Roman, serif;"><span style="font-size: medium;"><span style="font-family: Aptos, serif;"><span style="font-size: large;"><strong>Jens Foslie Jentoft</strong></span></span><span style="font-family: Aptos, serif;"><span style="font-size: large;"> (f. 1953)</span></span><span style="font-family: Aptos, serif;"> </span></span></span></p>
+<p class="align-left" align="center"> </p>
+<p align="center"> </p>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>Borgerleiet Austafjord omkring 1900</title>
+        <title>«Lest liv er levd liv». Forfatter og Skanke-ætling Dag Solstad (1941 – 2025) takker av</title>
         <author>
-            <name>Magne Seim</name>
+            <name>Hans Brattestå</name>
         </author>
-        <link href="https://skankeforeningeninorge.github.io/skankeweb/borgerleiet-austafjord-omkring-1900.html"/>
-        <id>https://skankeforeningeninorge.github.io/skankeweb/borgerleiet-austafjord-omkring-1900.html</id>
+        <link href="https://skankeforeningeninorge.github.io/skankeweb/lest-liv-er-levd-liv-forfatter-og-skanke-aetling-dag-solstad-1941-2025-takker-av.html"/>
+        <id>https://skankeforeningeninorge.github.io/skankeweb/lest-liv-er-levd-liv-forfatter-og-skanke-aetling-dag-solstad-1941-2025-takker-av.html</id>
             <category term="Artikler"/>
 
-        <updated>2025-06-19T14:51:55+02:00</updated>
-            <summary>
+        <updated>2025-11-11T18:44:41+01:00</updated>
+            <summary type="html">
                 <![CDATA[
-                    Lengst nord i Nord-Trøndelag, ytterst mot havet, finner vi Vikna, som tidligere var en egen kommune, men som fra 2020 er en del av Nærøysund kommune i Ytre Namdal. Vikna består av nærmere 6000 øyer, holmer og skjær. En av øyene - den største av&hellip;
+                    Dag Solstad Dag Solstad er en av våre aller største forfattere gjennom tidene. Han har hatt en helt enorm betydning for norsk litteratur. Han har vært helt i front og&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy" src="https://skankeforeningeninorge.github.io/skankeweb/media/posts/38/Dag-Solstad-2.png" alt="" width="664" height="592" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://skankeforeningeninorge.github.io/skankeweb/media/posts/38/responsive/Dag-Solstad-2-xs.png 640w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/38/responsive/Dag-Solstad-2-sm.png 768w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/38/responsive/Dag-Solstad-2-md.png 1024w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/38/responsive/Dag-Solstad-2-lg.png 1366w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/38/responsive/Dag-Solstad-2-xl.png 1600w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/38/responsive/Dag-Solstad-2-2xl.png 1920w">
+<figcaption>Dag Solstad</figcaption>
+</figure>
+<p class="align-left" align="center"><span style="font-size: medium;">Dag Solstad er en av våre aller største forfattere gjennom tidene. Han har hatt en helt enorm betydning for norsk litteratur. Han har vært helt i front og har fornyet romansjangeren gang på gang. Han har vært en som alle norske forfattere ser til. Bøkene hans vil være med oss veldig, veldig lenge, uttalte hans forlagssjef i Oktober forlag, Ingeri Engelstad, til Aftenposten i anledning Solstads død i Oslo den 14. mars i år.</span></p>
+<p><span style="font-size: medium;">Dag Solstad ble født 16. juli 1941 i <a href="https://no.wikipedia.org/wiki/Sandefjord" target="Sandefjord">Sandefjord</a>, der han tilbragte sin barne- og ungdoms-tid. </span><span style="font-size: medium;">Han vokste opp i et trygt hjem, som ble snudd på hodet da faren hans døde da Solstad var bare 11 år gammel.</span> <span style="font-size: medium;">Faren etterlot seg en kolonialforretning som gikk konkurs. Solstads ni år eldre bror hadde dratt til sjøs, og deres mor måtte livnære seg ved å selge sko. Solstad tok seg jobb på <a href="https://no.wikipedia.org/wiki/Jarlsberg_travbane" target="Jarlsberg travbane">Jarlsberg travbane</a> og var dessuten målvakt på juniorlaget til fotballklubben <a href="https://no.wikipedia.org/w/index.php?title=Store_Bergan&amp;action=edit&amp;redlink=1" target="Store Bergan (ikke skrevet ennå)">Store Bergan</a>. Etter <a href="https://no.wikipedia.org/wiki/Gymnasium" target="Gymnasium">gymnaset</a> var han lærervikar i <a href="https://no.wikipedia.org/wiki/Kabelv%C3%A5g" target="Kabelvåg">Kabelvåg</a>. Dette var opplevelser</span> <span style="font-size: medium;">Solstad sjelden snakket om, før de trengte seg på og han måtte skrive om det i alderdommen</span>.</p>
+<p><span style="font-size: medium;">Med lesing av Hamsun i ungdommen oppdaget Solstad at det var stor forfatter han ville bli</span><span style="font-size: medium;">. Så, i 1965, debuterte han som forfatter, 24 år gammel, med novellesamlingen «Spiraler». </span><span style="font-size: medium;">Resten av livet viet han til denne oppgaven. </span><span style="font-size: medium;">Han skrev rundt 30 bøker, inkludert romaner, noveller og dramatikk. Sammen med <a href="https://no.wikipedia.org/wiki/Jon_Michelet" target="Jon Michelet">Jon Michelet</a> skrev han også flere reportasjebøker om fotball.</span><span style="font-size: medium;"><br></span></p>
+<p><span style="font-size: medium;">Det man trodde var Solstads siste roman, «</span><span style="font-size: medium;"><i>En sann svir</i></span><span style="font-size: medium;">», utkom så sent som i februar i år. Det var en jubileumsbok i forbindelse med at Det Norske Travselskap fylte 150 år. Men i forbindelse med hans bortgang fremkom det at Solstad hadde ferdigskrevet nok en roman, og som avslutter den siste delen av hans forfatterskap med å ta for seg hukommelse og minnearbeid. Han hadde opprinnelig tenkt at boken skulle utgis etter hans død, </span><span style="font-size: medium;">men så ombestemte han seg og ville at den skulle komme ut til høsten i år. <br>Nå gjør den begge dele. I forbindelse med Solstads bisettelse i Oslo Domkirke 1. april, </span><span style="font-size: medium;">kunne </span><span style="font-size: medium;">foreleggeren, Ingeri Engelstad, avsløre både dette og bokens helt spesiell tittel: «</span><span style="font-size: medium;"><i>Endelig! Lykken. Og mitt forsøk, i 2022, på å utholde smerten ved tidens herjinger</i></span><span style="font-size: medium;">».</span></p>
+<p><span style="font-size: medium;">Solstad ble tildelt flere prestisjetunge priser. Blant dem <a href="https://no.wikipedia.org/wiki/Nordisk_r%C3%A5ds_litteraturpris" target="Nordisk råds litteraturpris">Nordisk råds litteraturpris</a> i 1989 for «</span><a href="https://no.wikipedia.org/wiki/Roman_1987" target="Roman 1987"><span style="font-size: medium;"><i>Roman 1987</i></span></a>»<span style="font-size: medium;">. Han mottok <a href="https://no.wikipedia.org/wiki/Statens_%C3%A6resl%C3%B8nn" target="Statens æreslønn">Statens æreslønn</a> fra 2011 og frem til sin død i Oslo 14. mars 2025. I et intervju med den danske Weekendavisen en tid tilbake, forteller Solstad om sitt liv og forfatterskap, og uttaler: </span><span style="font-size: medium;">«</span><span style="font-size: medium;"><i>Lest liv er levd liv</i></span><span style="font-size: medium;">».</span></p>
+<p><span style="font-size: medium;">Fra 1995 var Dag Solstad gift med <a href="https://no.wikipedia.org/wiki/Therese_Bj%C3%B8rneboe" target="Therese Bjørneboe">Therese Bjørneboe</a>, etter å ha vært gift to ganger tidligere. Er det kanskje henne tittelen i den siste romanen, Endelig! Lykken, henspiller på?</span><sup><span style="font-size: medium;"><br></span></sup><span style="font-size: medium;"><br>Som nevnt ovenfor er Dag Solstad Skanke-ætling, nærmere bestemt på Faxnälden-linjen, Seljord-grenen. I 2013 ga han ut romanen «</span><span style="font-size: medium;"><i>Det uoppløselige episke element i Telemark i perioden 1591 – 1896</i></span><span style="font-size: medium;">». </span><span style="color: #000000;"><span style="font-size: medium;">Det er Solstads lengste bok og er en familiekrønike bygget på hans egen slektshistorie i <a href="https://no.wikipedia.org/wiki/B%C3%B8_(Telemark)" target="Bø (Telemark)">Bø</a> og <a href="https://no.wikipedia.org/wiki/Seljord" target="Seljord">Seljord</a> i <a href="https://no.wikipedia.org/wiki/Telemark" target="Telemark">Telemark</a></span></span>,<span style="color: #000000;"><span style="font-size: medium;"> i form av en systematisk og svært detaljert fortelling om hans forfedre og formødre tilbake til 1500-tallet. Boken er gitt undertittelen <a href="https://no.wikipedia.org/wiki/Roman" target="Roman">roman</a>. Dens skjønnlitterære kvaliteter fikk imidlertid en blandet mottagelse. Noen kritikere mente at boken «</span></span><span style="color: #000000;"><span style="font-size: medium;"><i>ikke kan karakteriseres som en roman</i></span></span><span style="color: #000000;"><span style="font-size: medium;">», <br>men mer hadde karakter av slektshistorisk <a href="https://no.wikipedia.org/wiki/Sakprosa" target="Sakprosa">sakprosa</a>. Solstad ble likevel nominert til <a href="https://no.wikipedia.org/wiki/Brageprisen" target="Brageprisen">Brageprisen</a> i skjønnlitteratur for boken. Boken, som med antetavlene er på 457 sider, uten kapitler eller avsnitt, innledes med følgende anbefaling: «</span></span><span style="color: #000000;"><span style="font-size: medium;"><i>Les langsomt, ord for ord, hvis man vil forstå hva jeg sier. Jeg må nok begynne med å si dette, for det som nå engang står kan ikke sies på noen annen måte. Jeg skulle opprinnelig ha skrevet en helt annen roman, men så fikk jeg tak i dette materialet, og derved ble jeg oppslukt av det.</i></span></span><span style="color: #000000;"><span style="font-size: medium;">»</span></span></p>
+<p><span style="color: #000000;"><span style="font-size: medium;">Dag Solstads Seljord-gren av Skanke-ætten begynner med sogneprest i Seljord 1631 – 1689 og prost i Øvre Telemark 1653 – 1686, </span></span><span style="color: #000000;"><span style="font-size: medium;"><strong>Zacharias Jonssøn Skancke</strong></span></span><span style="color: #000000;"><span style="font-size: medium;"> (1601 i Innvik, Nordfjord – 1689 i Seljord) og hans ektefelle i første ekteskap </span></span><span style="color: #000000;"><span style="font-size: medium;"><strong>Dorothea Jørgensdatter</strong></span></span><span style="color: #000000;"><span style="font-size: medium;"> (d. 1643 i Seljord), datter av rådmann Jørgen Nielssen i Skien. Zacharias var sønn av rektor ved Bergen Latinskole (Katedralskolen) 1593 – 1596 og deretter sogneprest i Innvik og prost i Nordfjord 1597 - 1617, </span></span><span style="color: #000000;"><span style="font-size: medium;"><strong>Jon Mogenssøn Skancke</strong></span></span><span style="color: #000000;"><span style="font-size: medium;"> (ca. 1568 i Faxnälden, Näskott, Jemtland – 1618 i Innvik, dømt til døden og halshugget) og ektefelle Magdalena Andersdatter Foss (ca. 1574 – ca. 1640). Linjen fra Zacharias og Dorothea går videre ned gjennom deres eldste datter </span></span><span style="color: #000000;"><span style="font-size: medium;"><strong>Christense</strong></span></span><span style="color: #000000;"><span style="font-size: medium;"> </span></span><span style="color: #000000;"><span style="font-size: medium;"><strong>Zachariasdatter Skancke</strong></span></span><span style="color: #000000;"><span style="font-size: medium;"> (1634 i Seljord – 1710 i Seljord) og ektefelle Eivind Aasulvsson Garvik (Vreim-ætt fra Bø) (ca. 1637 – 1701), kjent som «Rike-Eivind». Videre gjennom deres datter </span></span><span style="color: #000000;"><span style="font-size: medium;"><strong>Anne Eivindsdotter Garvik</strong></span></span><span style="color: #000000;"><span style="font-size: medium;"> (1669 – 1757) og ektefelle Søren Gunleiksson Kvaale (1661 – 1713) i Seljord. De fikk 10 barn, herunder to døtre som fører Skanke-linjen videre ned til Dag Solstad: 1. </span></span><span style="color: #000000;"><span style="font-size: medium;"><strong>Anne Sørensdotter Kvaale</strong></span></span><span style="color: #000000;"><span style="font-size: medium;"> (1691 – 1764), som giftet seg med Gregar Bjørnsson Aase (1683 – 1746) på gården Aase i Flatdal, Seljord, og; 2. </span></span><span style="color: #000000;"><span style="font-size: medium;"><strong>Kjersti Sørensdotter Kvaale</strong></span></span><span style="color: #000000;"><span style="font-size: medium;"> (1696 – 1772), som giftet seg med lensmann i Seljord, Lavrants Guttormsson Midbøen (1687 – 1739) på gården Midbøen i Seljord. (Sistnevnte er også mine 6 x tippoldeforeldre). <br>En annen Skanke-linje ned til Dag Solstad går via den nettopp omtalte Anne Eivindsdotter Garvik/Kvaales yngre søster, </span></span><span style="color: #000000;"><span style="font-size: medium;"><strong>Tobjørg Eivindsdotter Garvik/Midtsund</strong></span></span><span style="color: #000000;"><span style="font-size: medium;"> (1681 – ca. 1754). Hun var datterdatter til Christense Zachariasdatter Skancke og derved oldebarn til sogneprest og prost Zacharias Jonssøn Skancke i Seljord. Som det vil fremgå er Dag Solstad Skanke-ætling på flere linjer. Det blir for omfattende å gå videre inn på her. Jeg viser derfor for videre lesning til Solstad nevnte roman fra 2013, «Det uoppløselige episke element i Telemark i perioden 1591 – 1896», </span></span><span style="font-size: medium; color: #000000;">som anbefales varmt.</span></p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Fangstmannen, Svalbard-pioneren og Skanke-ætlingen Arthur Harder Lorange Oxaas </title>
+        <author>
+            <name>Hans Brattestå</name>
+        </author>
+        <link href="https://skankeforeningeninorge.github.io/skankeweb/fangstmannen-svalbard-pioneren-og-skanke-aetlingen-arthur-harder-lorange-oxaas.html"/>
+        <id>https://skankeforeningeninorge.github.io/skankeweb/fangstmannen-svalbard-pioneren-og-skanke-aetlingen-arthur-harder-lorange-oxaas.html</id>
+            <category term="Artikler"/>
+
+        <updated>2025-11-11T18:42:26+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    I Skanke-nytt nr. 2 - 2022 bidro Bjørn-Arild Schancke med en facinerende historie med overskriften ”Milda Tveiten Schancke (f. 24.12.2021) og veien til døpefonten”. Bjørn-Arild Schancke er en ekte Svalbard-veteran.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><span lang="no-NO">I Skanke-nytt nr. 2 - 2022 bidro Bjørn-Arild Schancke med en facinerende historie med overskriften ”Milda Tveiten Schancke (f. 24.12.2021) og veien til døpefonten”. Bjørn-Arild Schancke er en ekte Svalbard-veteran. Han ble til på Svalbard og bodde der fra han var 3 uker til han var 16 år. I voksen alder vedte han tilbake til Svalbard og jobbet der i flere år. Historie i Skanke-nytt hadde også Svalbard som bakteppe.</span></p>
+<p><span lang="no-NO">Den 14. november 2023 mottok jeg følgende e-post fra Bjørn-Arild:<br></span><span style="color: #000000;"><span style="font-size: medium;"><i>«Jeg skulle lete opp et navn her om dagen som dukket opp under en dokumentar om en fangsthytte, som jeg laget film om på oppdrag for Sysselmesteren på Svalbard. Ei hytte nesten helt nord på Svalbard. Jeg har ikke fått bekreftet enda om navnet som var Oxaas har tilknytning til DENNE hytta. (så dette må jeg komme tilbake til når jeg har fått undersøkt grundigere i arkivene mine).<br></i></span></span><span style="color: #000000;"><span style="font-size: medium;"><i>MEN, i den forbindelse kom jeg over at Oxaas har forbindelse med en annen hytte jeg har tatt bilde av (se </i></span></span><span style="color: #000000;"><span style="font-size: medium;"><i><u>vedlagt bilde</u></i></span></span><span style="color: #000000;"><span style="font-size: medium;"><i>). En hytte han har bygget 1923, som står i Skanskbukta på Svalbard den dag i dag. Bildet tok jeg fra båt fredag ‎2. ‎juli ‎2021.</i></span></span></p>
+<p><em><span style="color: #000000;"><span style="font-size: medium;">En hytte jeg har passert med båt så mange ganger at jeg ikke har telling.<br></span></span><span style="color: #000000;"><span style="font-size: medium;">Lite visste jeg da at Arthur Oxaas var sønn av Anthonie Helen Oxaas som er født SCHANCHE <br>Og da sporet jeg fort av det jeg egentlig skulle sjekke ut, for dette ble jo spennende slektshistorie, og jeg spurte min bestefar Helge Schancke om han kjente til historien om Arthur Oxaas, eller om det var skrevet noe om han i Skanke-foreningen. Dette kunne han ikke huske, og hvis det er tilfelle så har du nesten et helt nummer med polarhistorie om en fra vår slekt som blir omtalt flere plasser som den som har bygget Svalbard.<br><br>Dette er mannen som har bygget flest fangsthytter på Svalbard, 29 overvintringer før han og hans kone, som var med de siste årene på Svalbard, ble evakuert til England under krigen.<br>På de 29 overvintringene hadde han skutt 373 isbjørner, og 1889 rever ++ andre polare dyr som det ikke er telling på.</span></span></em></p>
+<p><span style="color: #000000;"><span style="font-size: medium;"><i>Han er nevnt i del andre store fangstfolk / ekspedisjonsfolk sine dagbøker som feks. Helge Ingstad. I en av Helge Ingstad sine dagbøker er det nevnt at han er på besøk hos Oxaas i en anledning. <br><br>Mvh.<br>Bjørn-Arild Schancke»</i></span></span></p>
+<figure class="post__image post__image--left"><img loading="lazy" src="https://skankeforeningeninorge.github.io/skankeweb/media/posts/37/Arthur-Oxaas-2.png" alt="" width="472" height="655" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://skankeforeningeninorge.github.io/skankeweb/media/posts/37/responsive/Arthur-Oxaas-2-xs.png 640w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/37/responsive/Arthur-Oxaas-2-sm.png 768w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/37/responsive/Arthur-Oxaas-2-md.png 1024w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/37/responsive/Arthur-Oxaas-2-lg.png 1366w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/37/responsive/Arthur-Oxaas-2-xl.png 1600w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/37/responsive/Arthur-Oxaas-2-2xl.png 1920w">
+<figcaption><strong>Arthur Oxaas. Foto: Ukjent fotograf/Svalbard Museum</strong></figcaption>
+</figure>
+<p><span style="color: #000000;"><span style="font-size: medium;">Som anbefalt av Bjørn-Arild googlet jeg Arthur Oxaas, og derved ble det til følgende historie om et eventyrlig liv som fangstmann og Svalbard-pioner. </span></span><span style="font-size: large;"><strong>Arthur Harder Lorange Oxaas</strong></span><span style="font-size: medium;"><strong> </strong></span><span style="font-size: medium;">ble født i Vågan 7. mars 1888 og døde 23. januar 1974 i Trømsø, nesten 86 år gammel. </span><span style="color: #000000;"><span style="font-size: medium;">Arthurs foreldre var </span></span><span style="color: #000000;"><span style="font-size: medium;"><strong>Christian Rathman Oxaas</strong></span></span><span style="color: #000000;"><span style="font-size: medium;"> (født 1859 i Kvæfjord, Troms, død 1937 i Kirkenes) og </span></span><span style="font-size: medium;"><strong>Anthonie Helene f. Schanche </strong></span><span style="font-size: medium;">(født 1867 på Barstrand, Gimsøy i Lofoten, død i 1947 i Kirkenes). I folketellingen for 1900 var familien registrert i Tromsø, hvor de antagelig kom i 1889. Her oppgis det at faren var bryggeformann, og moren var husmor. Arthur var eldst i søskenflokken, og han hadde to brødre og tre søstre, ifølge folketellingen i 1900. Senere flyttet familien til Kirkenes hvor faren var gruvearbeider ved Sydvaranger AS.</span></p>
+<p><span style="font-size: medium;">Som 14-åring la Arthur i 1902 ut på sin første ishavsferd med sluppen «Isbjørn». </span><span style="font-size: medium;">Etter sin første hyre begynte han i lære hos <a href="https://no.wikipedia.org/wiki/B%C3%B8rsemaker" target="Børsemaker">børsemaker</a> Andersen i Tromsø. To år senere bestemte han seg for å reise ut på ishavet på nytt, men da på jekta «Tora den blide». I 1905 fikk han hyre som matros og fangstmann ombord på «Victoria». Da var han 17 år gammel. Året etter, da han var 18 år gammel, ble han for alvor fangstmann med overvintringer på Svalbard.</span></p>
+<p><span style="font-size: medium;">I Wikipedia opplyses følgende: «</span><span style="font-size: medium;"><i>Etter å ha mønstret av fra «Victoria» valgte han å prøve en overvintring i <a href="https://no.wikipedia.org/wiki/Dianabukta" target="Dianabukta">Dianabukta</a> med <a href="https://no.wikipedia.org/w/index.php?title=Petter_Trondsen&amp;action=edit&amp;redlink=1" target="Petter Trondsen (siden finnes ikke)">Petter Trondsens</a> ekspedisjon. Ekspedisjonen bestod av åtte mann, og startet fra Tromsø den 15. august 1906. Etter denne ekspedisjonen fortsatte han som fangstmann på Svalbard. Han deltok i en rekke ulike ekspedisjoner, samt enkelte overvintringer alene. Han oppholdt seg flere steder på Svalbard, og fortsatt er det fangsthytter som Oxaas har bygget som står ulike steder på <a href="https://no.wikipedia.org/wiki/Spitsbergen" target="Spitsbergen">Spitsbergen</a>. </i></span></p>
+<p><span style="font-size: medium;"><i>I 1936 hadde Oxaas med seg sin forlovede </i></span><span style="font-size: medium;"><i><strong>Anna Lambela</strong></i></span><span style="font-size: medium;"><i> på overvintring i fangsthytta på Kapp Wijk i <a href="https://no.wikipedia.org/wiki/Nordfjorden_(Svalbard)" target="Nordfjorden (Svalbard)">Nordfjorden</a>. I juni 1937 giftet de seg i <a href="https://no.wikipedia.org/wiki/Longyearbyen_kirke" target="Longyearbyen kirke">Longyearbyen kirke</a>. Hun var med på flere av hans overvintringer fram til 1947.» </i></span></p>
+<figure class="post__image post__image--left"><span style="font-size: medium;"><img loading="lazy"  src="https://skankeforeningeninorge.github.io/skankeweb/media/posts/37/Arthur-2.png" alt="" width="275" height="191" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://skankeforeningeninorge.github.io/skankeweb/media/posts/37/responsive/Arthur-2-xs.png 640w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/37/responsive/Arthur-2-sm.png 768w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/37/responsive/Arthur-2-md.png 1024w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/37/responsive/Arthur-2-lg.png 1366w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/37/responsive/Arthur-2-xl.png 1600w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/37/responsive/Arthur-2-2xl.png 1920w"></figure>Arthur Oxaas har beskrevet julekvelden 1936, da han hadde med seg sin forlovede Anna på overvintring for første gang, som den festligste han opplevde på Svalbard. Dette gjorde at det ble en helt ny sving på sakene i fangsthytta hans på Kapp Wijk i Nordfjorden denne vinteren. </span><span style="font-size: medium;"><i>«Min kone har bagt og strævet til Jul. En kvinne jør mer for att det skal være fest og høitid, det er da stor forskjell mot når vi er alene mannfolk», </i></span><span style="font-size: medium;">sa Arthur om dette.</span></p>
+<p><strong>Arthur og Anna Oxaas</strong></p>
+<p><span style="font-size: medium;">I 1941, under <a href="https://no.wikipedia.org/wiki/Andre_verdenskrig" target="Andre verdenskrig">andre verdenskrig</a>, ble Arthur og Anna evakuert fra Svalbard og bodde i <a href="https://no.wikipedia.org/wiki/England" target="England">England</a> under store deler av krigen. Fra 1906 til 1947 hadde han til sammen hele 29 overvintringer som fangstmann på <a href="https://no.wikipedia.org/wiki/Svalbard" target="Svalbard">Svalbard</a>. Han opplyser selv om dette: «</span><span style="font-size: medium;"><i>I løpet av disse årene har jeg til sammen nedlagt eller fanget 373 <a href="https://no.wikipedia.org/wiki/Isbj%C3%B8rn" target="Isbjørn">isbjørner</a> og 1889 rever. Dertil kommer atskillige andre polardyr, som <a href="https://no.wikipedia.org/wiki/Kobbe" target="Kobbe">kobbe</a> og snadd, uten at jeg kan nevne noen tall.»</i></span></p>
+<p><span style="font-size: medium;">Han er også</span><span style="font-size: medium;"><i><strong> </strong></i></span><span style="font-size: medium;">en av de fangstmenn som har bygget flest hytter på Spitsbergen. Fortsatt er det som nevnt hytter som står igjen etter ham.<br></span></p>
+<figure class="post__image post__image--left"><figure class="post__image post__image--left"><img loading="lazy"  src="https://skankeforeningeninorge.github.io/skankeweb/media/posts/37/Arthur3.png" alt="" width="160" height="258" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://skankeforeningeninorge.github.io/skankeweb/media/posts/37/responsive/Arthur3-xs.png 640w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/37/responsive/Arthur3-sm.png 768w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/37/responsive/Arthur3-md.png 1024w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/37/responsive/Arthur3-lg.png 1366w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/37/responsive/Arthur3-xl.png 1600w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/37/responsive/Arthur3-2xl.png 1920w"></figure>
+<figcaption>
+<p><span style="font-size: small;"><strong>Foto: Norsk Polarinstitutt</strong></span></p>
+</figcaption>
+</figure>
+<p><span style="font-size: medium;">Arthur Oxaas har beskrevet sitt liv som fangstmann i sine dagbøker, i forskjellige avisintervjuer og i sin selvbiografi «</span><span style="font-size: medium;"><i>Svalbard var min verden»</i></span><span style="font-size: medium;"> fra 1955. En av de hendelsene han beskriver fant sted høsten 1909, hvor hele fangst-ekspedisjonslaget til Johan Sivertsen døde. Ettersom nordsiden av Spitsbergen var blokkert av is den vinteren, var det ingen fartøy som kom seg oppover. Karene lå døde i huset i over ett år. I 1910 rodde Oxaas sammen med <a href="https://no.wikipedia.org/w/index.php?title=Ole_Hogstad&amp;action=edit&amp;redlink=1" target="Ole Hogstad (siden finnes ikke)">Ole Hogstad</a> 280 mil for å hente mennene og få dem begravet. I utgangspunktet skulle statlige myndigheter ha sendt ut en ekspedisjon for å begrave dem, men dette skjedde ikke. Oxaas og Hogstad fikk ingen erstatning fra staten for utførelsen av oppdraget.</span></p>
+<p> </p>
+<p><span style="font-size: medium;"><strong>Arthur Oxaas: </strong></span><span style="font-size: medium;">"</span><span style="font-size: medium;"><i>Det va fangstlive som va det forgjætta måle vårt. Kom vi oss bare på Ishavet eller opp te Svalbard, så va vi som konga når vi kom ner igjen. Da va vi rektige fangstfolk å se tel</i></span><span style="font-size: medium;">."</span></p>
+<p><span style="font-size: medium;">I</span> sine år som fangstmann hadde Oxaas flere besøk av ulike ekspedisjoner og andre fangstmenn. Under overvintringen i 1932 hadde han besøk av Helge Ingstad. I Helge Ingstads biografi «Landet med de kalde kyster» (utgitt 1948) er dette besøket beskrevet. I 1952 mottok Arthur Oxaas <a href="https://no.wikipedia.org/wiki/Kongens_fortjenstmedalje" target="Kongens fortjenstmedalje">Kongens fortjenstmedalje</a> i sølv. Arthur Oxaas døde 23. januar 1974 i Tromsø og ligger begravet på Tromsø gravlund.</p>
+<p><strong>Litt mer om Arthur Oxaas’ Skanke-linje</strong><span style="font-size: large;"><strong><br><br></strong></span><span style="font-size: medium;"><strong>Arthur Harder Lorange Oxaas </strong></span><span style="font-size: medium;">er Skanke-ætling («dobbelt-Skanke») på Faste-/Knut-grenen <br>i Røros-linjen, gjennom sin </span><span style="font-size: medium;"><strong>mor Anthonie Helene Schanche</strong></span><span style="font-size: medium;"> (1867 – 1947), således:</span></p>
+<p align="center"><span style="font-size: medium;">Ertzscheider, skifteforvalter ved Røros kobberverk og «velaktede mand»<br></span><span style="font-size: medium;"><strong>Knut Pedersen Schanke</strong></span><span style="font-size: medium;"> (f. ca. 1685 på Røros, d. der 1752)<br>(bruker av Nyplasshage, «Skanckerommet»)<br></span><span style="font-size: medium;"><u>ca. 1707 g.m. Karen Lorentzdtr. Biørgum ( f. ca. 1688 på Røros, d. der 1756)</u></span></p>
+<p align="center"><span style="font-size: medium;">Gruvearbeider, røstvender </span><span style="font-size: medium;"><strong>Lorentz Knutsen Schancke</strong></span><span style="font-size: medium;"> (ca. 1708 Røros – 1764 Røros)<br></span><span style="font-size: medium;"><u>1733 g.m. Marite Johannesdatter (ca. 1711 Røros – 1782 Røros)<br><br></u></span><span style="font-size: medium;">Hytteskriver ved Femundhytta </span><span style="font-size: medium;"><strong>Peder Lorentzen Skancke</strong></span><span style="font-size: medium;"> (1745 Røros – 1828 Røros)<br></span><span style="font-size: medium;"><u>1774 g.m. Juditha Ramberg (ca. 1754 – 1835) <br><br></u></span><span style="font-size: medium;"><strong>Lorentza Pedersdatter Skancke</strong></span><span style="font-size: medium;"> (1774 Røros – 1861 Røros)</span><span style="font-size: medium;"><u><br>i parforhold til slakter Gottfrid Hundt i Trondheim (ca. 1771 – 1810 Trondheim)<br></u></span><span style="font-size: medium;">(Lorentza er i ekteskap nr. 2 med Ole Iversen Unsgaard (1783 – 1850) <br>oldemor til forfatteren </span><span style="font-size: medium;"><strong>Johan C. Bojer</strong></span><span style="font-size: medium;"> (1872 – 1959))<br><br>Glassmester </span><span style="font-size: medium;"><strong>Johan Christopher Skancke</strong></span><span style="font-size: medium;"> (1795 Røros – 1834 Tromsø)<br></span><span style="font-size: medium;"><u>1819 g.m. sin slektning </u></span><span style="font-size: medium;"><u><strong>Kirsten Hansdatter Skancke</strong></u></span><span style="font-size: medium;"><u> (f. 1789 på Røros)</u></span><span style="font-size: medium;"><br>(Kirsten var datter av overstiger </span><span style="font-size: medium;"><strong>Hans Pedersen Skancke</strong></span><span style="font-size: medium;"> (1748 – 1823) også Skanke-ætling på Faste-/Knut-grenen) og Anne Sophie Olsdtr. Belgmager (1760 – 1817))<br><br>Skomaker på Gimsøy i Lofoten </span><span style="font-size: medium;"><strong>Lorentz J. Skancke</strong></span><span style="font-size: medium;"> (1822 i Tromsø)<br></span><span style="font-size: medium;"><u>1858 på Gimsøy g.m. Jonanna Davidsen (f. ca. 1822 i Steigen)</u></span><span style="font-size: medium;"><br><br></span><span style="font-size: medium;"><strong>Anthonie Helene Schanche</strong></span><span style="font-size: medium;"> (f. på Gimsøy, Vågan, Lofoten 1867 – d. i Kirkenes 1947)<br></span><span style="font-size: medium;"><u>1887 i Vågan g.m. Christian Rathman Oxaas (f. 1859 i Kvæfjord, Troms, d. 1937 i Kirkenes)</u></span><span style="font-size: medium;"><br><br><br>Fangstmann og Svalbardpioner </span><span style="font-size: medium;"><strong>Arthur Harder Lorange Oxaas </strong></span><span style="font-size: medium;">(1888 i Vågan - 1974 i Trømsø)<br>1837 g.m. Anna Abrahamsdtr. Skibotn (Lambela) (1890 – 1975)</span></p>
+<p><span style="font-size: medium;"><u><br></u></span>Kilder:</p>
+<ul>
+<li>Wikipedia</li>
+<li>Avisen Nordlys</li>
+<li>Norsk Polarinstitutt</li>
+<li>Bladet Tromsø</li>
+<li>Roger de Robelin «Skanke-ätten» (Røros 1995)</li>
+</ul>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Schancher på borgerleiet Austafjord i Vikna i Nord-Trøndelag</title>
+        <author>
+            <name>Hans Brattestå</name>
+        </author>
+        <link href="https://skankeforeningeninorge.github.io/skankeweb/schancher-pa-borgerleiet-austafjord-i-vikna-i-nord-trondelag.html"/>
+        <id>https://skankeforeningeninorge.github.io/skankeweb/schancher-pa-borgerleiet-austafjord-i-vikna-i-nord-trondelag.html</id>
+            <category term="Artikler"/>
+
+        <updated>2025-11-10T22:04:07+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Lengst nord i Nord-Trøndelag, ytterst mot havet, finner vi Vikna, som tidligere var en egen kommune, men som fra 2020 er en del av Nærøysund kommune i Ytre Namdal. Vikna&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <p><span style="font-size: medium;">Lengst nord i Nord-Trøndelag, ytterst mot havet, finner vi Vikna, som tidligere var en egen kommune, men som fra 2020 er en del av Nærøysund kommune i Ytre Namdal. Vikna består av nærmere 6000 øyer, holmer og skjær. En av øyene - den største av dem - er Ytre Vikna. I en fjordarm på innsiden av øya finner vi det gamle borgerleiet og handelsstedet Austafjord. Tvers over sundet fra Austafjord finner vi eiendommen Belseng, som lenge tilhørte Austafjord. På utsiden av Austafjord finner vi Frelsøy.</span></p>
 <p><span style="font-size: medium;">Gården Austafjord er en vidstrakt eiendom. Handelsstedet ligger sentralt til og har gjennom tidene vært et knutepunkt for ferdselen her ute. Ganske naturlig utviklet Austaford seg til et sentrum for handelsvirksomheten i ytre delen av Vikna, som Rørvik ble det i Indre Vikna. Austafjord har vært bebygd fra eldgamle tider, men den skrevne historien til stedet starter først på midten av 1500-tallet. I detter øyriket og knyttet til bl.a. de nevnte stedene og da særlig Austafjord, dominerte Schancher og Schanche-ætlinger virksomheten i over 150 år, fra litt etter midten på 1600-tallet. Men allerede fra ca. 1630 er det også en Schanche-tilknytning på borgerleiet Frelsøy, helt ytterst i Vikna, med videre tilknytning til Austafjord, Det kommer jeg tilbake til nedenfor, men ført litt om utrykket borgerleie og utligger(borger).</span></p>
-<figure class="post__image"><img loading="lazy"  src="https://skankeforeningeninorge.github.io/skankeweb/media/posts/18/Skjermbilde-fra-2025-06-19-14-35-29.png" alt="" width="583" height="361" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://skankeforeningeninorge.github.io/skankeweb/media/posts/18/responsive/Skjermbilde-fra-2025-06-19-14-35-29-xs.png 640w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/18/responsive/Skjermbilde-fra-2025-06-19-14-35-29-sm.png 768w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/18/responsive/Skjermbilde-fra-2025-06-19-14-35-29-md.png 1024w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/18/responsive/Skjermbilde-fra-2025-06-19-14-35-29-lg.png 1366w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/18/responsive/Skjermbilde-fra-2025-06-19-14-35-29-xl.png 1600w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/18/responsive/Skjermbilde-fra-2025-06-19-14-35-29-2xl.png 1920w"></figure>
-<p class="align-left" align="center"><em>Borgerleiet Austafjord omkring 1900</em></p>
-<p align="center"> </p>
+<figure class="post__image"><figure class="post__image"><img loading="lazy"  src="https://skankeforeningeninorge.github.io/skankeweb/media/posts/29/Austafjord-arhundreskiftet.png" alt="" width="689" height="387" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://skankeforeningeninorge.github.io/skankeweb/media/posts/29/responsive/Austafjord-arhundreskiftet-xs.png 640w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/29/responsive/Austafjord-arhundreskiftet-sm.png 768w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/29/responsive/Austafjord-arhundreskiftet-md.png 1024w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/29/responsive/Austafjord-arhundreskiftet-lg.png 1366w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/29/responsive/Austafjord-arhundreskiftet-xl.png 1600w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/29/responsive/Austafjord-arhundreskiftet-2xl.png 1920w"></figure>
+<figcaption><em>Borgerleiet Austafjord omkring 1900</em></figcaption>
+</figure>
 <p><span style="font-size: medium;">Et </span><span style="font-size: medium;"><strong>borgerleie</strong></span><span style="font-size: medium;"> eller </span><span style="font-size: medium;"><strong>kremmerleie</strong></span><span style="font-size: medium;"> var et fast tilholdssted for en <a href="https://no.wikipedia.org/wiki/Borgerskap" target="Borgerskap">borger</a> som periodevis drev <a href="https://no.wikipedia.org/wiki/Handel" target="Handel">handel</a> i landdistriktene, det vil si langt i fra den byen der de hadde sitt løyve. Borgere var handelsmenn fra byen. Når det gjelder den nordlige delen av landet, var det i praksis borgere fra Bergen eller Trondheim. Handelsmenn i slike borgerleier ble også kalt «</span><span style="font-size: medium;"><strong>utliggere</strong></span><span style="font-size: medium;">» eller «</span><span style="font-size: medium;"><strong>utliggerborgere</strong></span><span style="font-size: medium;">». På 1600-tallet begynte handelsborgere fra Bergen og Trondheim å handle i Nord-Trøndelag og i Nord-Norge som «utliggerborgere».</span></p>
-<figure class="post__image"><img loading="lazy"  src="https://skankeforeningeninorge.github.io/skankeweb/media/posts/18/Skjermbilde-fra-2025-06-19-14-36-38.png" alt="" width="578" height="309" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://skankeforeningeninorge.github.io/skankeweb/media/posts/18/responsive/Skjermbilde-fra-2025-06-19-14-36-38-xs.png 640w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/18/responsive/Skjermbilde-fra-2025-06-19-14-36-38-sm.png 768w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/18/responsive/Skjermbilde-fra-2025-06-19-14-36-38-md.png 1024w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/18/responsive/Skjermbilde-fra-2025-06-19-14-36-38-lg.png 1366w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/18/responsive/Skjermbilde-fra-2025-06-19-14-36-38-xl.png 1600w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/18/responsive/Skjermbilde-fra-2025-06-19-14-36-38-2xl.png 1920w"></figure>
-<p><span style="font-size: medium;">Opprinnelig hadde utliggerborgerne tillatelse til å drive slik handel i sommerhalvåret, men etter hvert slo de seg ned mer fast på handelssteder langs kysten. Handelsmennene måtte betale avgift for borgerleiet. Noen bygslet gårder og mente derfor at de hadde rett til å bli der også om vinteren. Handelsborgerne i Trondheim førte ofte med seg basisvarer som korn, malt, salt, tjære, tøy og klær, og dessuten luksusvarer som kniplinger, brennevin og tobakk. Et slikt borgerleie var altså Austafjord, med utliggerborgere fra Trondheim. </span></p>
+<p><span style="font-size: medium;">Opprinnelig hadde utliggerborgerne tillatelse til å drive slik handel i sommerhalvåret, men etter hvert slo de seg ned mer fast på handelssteder langs kysten. Handelsmennene måtte betale avgift for borgerleiet. Noen bygslet gårder og mente derfor at de hadde rett til å bli der også om vinteren. Handelsborgerne i Trondheim førte ofte med seg basisvarer som korn, malt, salt, tjære, tøy og klær, og dessuten luksusvarer som kniplinger, brennevin og tobakk. Et slikt borgerleie var altså Austafjord, med utliggerborgere fra Trondheim.</span></p>
+<figure class="post__image"><figure class="post__image"><img loading="lazy"  src="https://skankeforeningeninorge.github.io/skankeweb/media/posts/29/Trondhjem.png" alt="" width="576" height="289" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://skankeforeningeninorge.github.io/skankeweb/media/posts/29/responsive/Trondhjem-xs.png 640w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/29/responsive/Trondhjem-sm.png 768w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/29/responsive/Trondhjem-md.png 1024w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/29/responsive/Trondhjem-lg.png 1366w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/29/responsive/Trondhjem-xl.png 1600w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/29/responsive/Trondhjem-2xl.png 1920w"></figure>
+<figcaption>Trondheim 1674. Jacob Mortenssøn Maschius' kobberstikk</figcaption>
+</figure>
+<p class="western"><span style="font-size: medium;">Opprinnelig hadde utliggerborgerne tillatelse til å drive slik handel i sommerhalvåret, men etter hvert slo de seg ned mer fast på handelssteder langs kysten. Handelsmennene måtte betale avgift for borgerleiet. Noen bygslet gårder og mente derfor at de hadde rett til å bli der også om vinteren. Handelsborgerne i Trondheim førte ofte med seg basisvarer som korn, malt, salt, tjære, tøy og klær, og dessuten luksusvarer som kniplinger, brennevin og tobakk. Et slikt borgerleie var altså Austafjord, med utliggerborgere fra Trondheim. </span></p>
+<p class="western"><span class="sd-abs-pos"> </span><span style="font-size: medium;"><strong>Så litt om borgerleiet Frelsøy og folket der.<br></strong></span><span style="font-size: medium;">Helt ytterst i Vikna, ut mot havet, ligger Frelsøy, nå kanskje mest kjent som som en del av Borgan og Frelsøy naturreservat. Her ute var det et stort fiskevær og handelssted allerede fra 1500-tallet. Rundt 1630 ble borgerleiet overtatt av den rike handelsmannen</span> og <span style="font-size: medium;">borger i Trondheim, </span><span style="font-size: medium;"><strong>Hans Ottesen Kruse </strong></span><span style="font-size: medium;">(1595/6 – 1667). Han kom hit som utligger-borger, som bodde her om sommere og i Trondheim om vinteren. Men da Trondheim brant i 1651 gikk hans eiendommer i den nåværende Kjøpmannsgata 30 tapt, og han flyttet hele sin virksomhet til Frelsøy, der han jo allerede var vel etablert. Han hadde eiendommer ikke bare i Vikna, men også blant annet i Bindal i Nordland, hvor han også drev handel. </span></p>
+<p class="western"><span style="font-size: medium;"><u>Hans Ottesen Kruse</u></span><span style="font-size: medium;"> var gift med </span><span style="font-size: medium;"><u>Skanke-ætlingen</u></span><span style="font-size: medium;"> </span><span style="font-size: medium;"><strong>Luzie Olsdatter Meldal </strong></span><span style="font-size: medium;">(ca. 1605 Meldal, S.T. – 1693 Frelsøy). Hun var datter av sogneprest i Meldal, </span><span style="font-size: medium;"><strong>Ole Joensson (Skanke)</strong></span><span style="font-size: medium;"> </span><span style="font-size: medium;"><strong>Meldal</strong></span><span style="font-size: medium;"> og </span><span style="font-size: medium;"><strong>Anna Jensdatter f. Bull</strong></span><span style="font-size: medium;">. Luzies 2 x tippoldefar var ridder </span><span style="font-size: medium;"><strong>Jens Karlsson (Skanke)</strong></span><span style="font-size: medium;"> (ca. 1407 på Hov i Hackås – 1488 i Billsta, Hackås, Jemtland) til Billsta og Öd, sønn av væpner </span><span style="font-size: medium;"><strong>Karl Pedersson (Skanke</strong></span><span style="font-size: medium;">) </span><span style="font-size: medium;">(ca. 1360 – 1430) på Hov i Hackås. Så allerede fra rundt 1630 var det skanker i </span><span style="font-size: medium;">Vikna.</span></p>
+<figure class="post__image"><img loading="lazy"  src="https://skankeforeningeninorge.github.io/skankeweb/media/posts/29/Borgan-og-Frelsoy.png" alt="" width="733" height="482" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://skankeforeningeninorge.github.io/skankeweb/media/posts/29/responsive/Borgan-og-Frelsoy-xs.png 640w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/29/responsive/Borgan-og-Frelsoy-sm.png 768w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/29/responsive/Borgan-og-Frelsoy-md.png 1024w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/29/responsive/Borgan-og-Frelsoy-lg.png 1366w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/29/responsive/Borgan-og-Frelsoy-xl.png 1600w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/29/responsive/Borgan-og-Frelsoy-2xl.png 1920w"></figure>
+<p class="western"><span style="font-size: medium;">Da Hans Ottesen Kruse døde i 1667, fortsatte enken </span><span style="font-size: medium;"><strong>Luzie </strong></span><span style="font-size: medium;">forretningsvirksomheten og utvidet den. Hun ble en mektig dame på stedet. </span><span style="font-size: medium;">Kongen av Danmark og Norge, Fredrik III, måtte på denne tiden selge flere av sine gods for å finansiere krigføringen mot Sverige. I 1668 kjøper Luzie Kruse krongodset i Borgan og hun ble da eier av halvparten av Borgan. Hun kjøper etter hvert også opp eiendom andre steder. I 1690 sto hun således oppført med  </span><span style="font-size: medium;">Årsanden i Bindalen, Fjukstad i Vikna, Ramstad i Vikna, samt Borgan, Sylten og Drag. Det er grunn til å tro at hun tilegnet seg en god del av disse eiendommene ved innkreving av gjeld. Frelsøy forble antagelig krongods, festet av skankene der frem til 1729, da den sammen med en mengde annet gods i Vikna ble solgt til Trondheimsborger Morten Claussen Kiemler</span><span style="font-size: medium;"><strong> </strong></span><span style="font-size: medium;">(ca. 1660 – 1744). Han var far til </span><span style="font-size: medium;"><strong>Anna Mortensdatter Kiemler </strong></span><span style="font-size: medium;">(1706 – 1787), som ble gift med Luzies barnebarn </span><span style="font-size: medium;"><strong>Jens Jensen Schanche</strong></span><span style="font-size: medium;"> (1653 – 1745) i hans andre ekteskap. Videre om ham nedenfor.</span></p>
+<figure class="post__image"><figure class="post__image"><img loading="lazy"  src="https://skankeforeningeninorge.github.io/skankeweb/media/posts/29/Austafjor.png" alt="" width="927" height="451" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://skankeforeningeninorge.github.io/skankeweb/media/posts/29/responsive/Austafjor-xs.png 640w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/29/responsive/Austafjor-sm.png 768w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/29/responsive/Austafjor-md.png 1024w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/29/responsive/Austafjor-lg.png 1366w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/29/responsive/Austafjor-xl.png 1600w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/29/responsive/Austafjor-2xl.png 1920w"></figure>
+<figcaption>Borgan i Vikna på begynnelsen av 1900-tallet</figcaption>
+</figure>
+<p><span style="font-size: medium;">Luzie døde på Frelsøya i 1693 som en svært holden dame. I skiftedokumentene benevnes hun som både "erdydig" og "gudelskende», men i boet går det også fram at en lang rekke av naboene i Ytre Vikna var avhengige av familien Kruse på grunn av gjeld. Luzie hadde sikret seg pant i løsøre hos de fleste av dem. Etter alt å dømme var hun ingen nådig eiendomsbesitter, leilendingene skiftet stadig.</span></p>
+<p class="western"><span style="font-size: medium;">Hans og Luzie fikk flere barn, i alle fall fire, herunder </span><span style="font-size: medium;"><strong>Maren Hansdatter Kruse</strong></span><span style="font-size: medium;"> (ca. 1625 i Trondheim - 1684 i Austafjod), som også da var Skanke-ætling. Maren var gift med <br>(i hans 3. ekteskap) skredder, handelsmann og borger i Trondheim, senere utligger-borger først på Belseng og siden i Austafjord </span><span style="font-size: medium;"><strong>Jens Pedersen Schanche</strong></span><span style="font-size: medium;"> (ca. 1605 i Skede (?) Jemtland – 1684 i Austafjord). Han skal jeg komme tilbake til, men bare her nevne sønnen i dette ekteskapet, ovennevnte </span><span style="font-size: medium;"><strong>Jens Jensen Schanche</strong></span><span style="font-size: medium;"> (1653 – 1745). Han fikk i 1688 overdratt fra sin mormor, omtalte </span><span style="font-size: medium;"><strong>Luzie</strong></span><span style="font-size: medium;"> Olsdatter Kruse, handelsleiet og privilegiene på Frelsøy. Dette skjedde fem år før Luzie døde i 1693. Senere finner vi Jens på Austafjord, etter at svigerfaren Morten Claussen Kiemler i 1729 hadde kjøpt kron-godset på Frelsøy, og denne Jens skal jeg også komme tilbake til under omtalen av skankene på Austafjord. </span></p>
+<p class="western"><span style="font-size: medium;"><strong>Så til Schanche-ætten i Austafjord – Trondheimsgrenen.</strong></span></p>
+<p class="western"><span style="font-size: medium;">Det som i Roger de Robelins bok ”Skanke ätten” benevnes </span><span style="font-size: medium;"><u>Trondheimsgrenen</u></span><span style="font-size: medium;"> av Skanke-ætten har sitt utgangspunkt i den allerede omtalte </span><span style="font-size: medium;"><strong>Jens Pedersen Schanche</strong></span><span style="font-size: medium;"> (ca. 1605 i Skede (?) Jemtland – 1684 i Austafjord). I hans anelinjer finner vi både </span><span style="font-size: medium;"><u>Sanne</u></span><span style="font-size: medium;">- og </span><span style="font-size: medium;"><u>Hackås</u></span><span style="font-size: medium;">-</span><span style="font-size: medium;"><u>linjene </u></span><span style="font-size: medium;">av Skanke-ætten. Sammenhengen her er som følger: <br>Jens Pedersen Schanches foreldre er bonde i Skede i Jemtland </span><span style="font-size: medium;"><strong>Peder Eriksson (Skanke)</strong></span><span style="font-size: medium;"> (ca. 1550 – før 1635) og </span><span style="font-size: medium;"><strong>Karin Nilsdotter (Skanke). </strong></span><span style="font-size: medium;"><u>Peders</u></span><span style="font-size: medium;"> anelinje går tilbake til </span><span style="font-size: medium;"><strong>Joan Pedersson (Skanke) i Sanne</strong></span><span style="font-size: medium;"> (kjent 1394 – 1410), opphavet til </span><span style="font-size: medium;">Sanne-linjen, og antatt bror til Karl Pedersson (Skanke) og Önd Pedersson (Skanke). </span><span style="font-size: medium;"><u>Karins</u></span><span style="font-size: medium;"> anelinje går tilbake til ridder </span><span style="font-size: medium;"><strong>Jens Karlsson (Skanke)</strong></span><span style="font-size: medium;"> (ca. 1407 på Hov i Hackås – 1488 i Billsta) til Billsta og Öd, sønn av væpner </span><span style="font-size: medium;"><strong>Karl Pedersson (Skanke</strong></span><span style="font-size: medium;">) (ca. 1360 – 1430) på Hov i Hackås. Det vil si </span><span style="font-size: medium;"><u>Hackås-linjen/Billsta-grenen</u></span><span style="font-size: medium;"> av Skanke-ætten.</span></p>
+<figure class="post__image post__image--left"><span style="font-size: medium;"><strong><img loading="lazy"  src="https://skankeforeningeninorge.github.io/skankeweb/media/posts/29/kart-Vikna-2.png" alt="" width="470" height="488" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://skankeforeningeninorge.github.io/skankeweb/media/posts/29/responsive/kart-Vikna-2-xs.png 640w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/29/responsive/kart-Vikna-2-sm.png 768w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/29/responsive/kart-Vikna-2-md.png 1024w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/29/responsive/kart-Vikna-2-lg.png 1366w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/29/responsive/kart-Vikna-2-xl.png 1600w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/29/responsive/kart-Vikna-2-2xl.png 1920w"></figure>Jens Pedersen Schanche</strong></span><span style="font-size: medium;"> (ca. 1605 – 1684) var i </span><span style="font-size: medium;"><u>første ekteskap</u></span><span style="font-size: medium;"> gift med </span><span style="font-size: medium;"><strong>Ingeborg Olavsdatter Skanke </strong></span><span style="font-size: medium;">(d. 1644 i Trondheim)</span><span style="font-size: medium;"><strong>. </strong></span><span style="font-size: medium;">Hun var</span><span style="font-size: medium;"> </span><span style="font-size: medium;">datter av handelsmann og borger i Trondheim </span><span style="font-size: medium;"><strong>Olof Bentsen Skanke</strong></span><span style="font-size: medium;"> (d. 1644), også Skanke-ætling på </span><span style="font-size: medium;"><u>Sanne-linjen</u></span><span style="font-size: medium;">. <br>Olof eide «Olle Bendzgaarden» i Trondheim som svigersønnen Jens P. Schanche arvet. <br>Ett barn kjent i dette ekteskapet, men uten relevans i vår sammenheng.<br>I </span><span style="font-size: medium;"><u>andre ekteskap</u></span><span style="font-size: medium;"> var Jens Pedersen Schanche gift med </span><span style="font-size: medium;"><strong>Maren Nicolaisdatter</strong></span><span style="font-size: medium;"> (d. 1650).</span></p>
+<p class="western"><span style="font-size: medium;">Tre barn kjent i dette ekteskapet, hvorav </span><span style="font-size: medium;"><strong>Siri Jensdatter Schanche</strong></span><span style="font-size: medium;"> (levde fortsatt i 1685) har relevans i denne sammenheng, og henne kommer jeg tilbake til. I </span><span style="font-size: medium;"><u>tredje ekteskap</u></span><span style="font-size: medium;"> (ca. 1652) var Jens Pedersen Schanche gift </span><span style="font-size: medium;"><strong>med Maren Hansdatter Kruse</strong></span><span style="font-size: medium;"> (d. 1684), datter av Hans Ottesen Kruse og Skanke-ætlingen Luzie Olsdatter Meldal, på Frelsøy, og som er omtalt ovenfor. I dette ekteskapet var det ett kjent barn, nemlig </span><span style="font-size: medium;"><strong>Jens Jensen Schanche</strong></span><span style="font-size: medium;"> (1653 – 1745), som også er nevnt ovenfor under omtalen av folket på Frelsøy, og som jeg også kommer tilbake til nedenfor. </span></p>
+<figure class="post__image post__image--left"><span class="sd-abs-pos"><img loading="lazy"  src="https://skankeforeningeninorge.github.io/skankeweb/media/posts/29/kart-Vikna-kommune-2.png" alt="" width="1024" height="772" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://skankeforeningeninorge.github.io/skankeweb/media/posts/29/responsive/kart-Vikna-kommune-2-xs.png 640w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/29/responsive/kart-Vikna-kommune-2-sm.png 768w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/29/responsive/kart-Vikna-kommune-2-md.png 1024w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/29/responsive/kart-Vikna-kommune-2-lg.png 1366w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/29/responsive/kart-Vikna-kommune-2-xl.png 1600w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/29/responsive/kart-Vikna-kommune-2-2xl.png 1920w"></figure> </span><span style="font-size: medium;">Fra 1669 finner vi </span><span style="font-size: medium;"><strong>Jens Pedersen Schanche</strong></span><span style="font-size: medium;"> som utliggerborger på handels-stedet Austafjord. Han hadde da allerede hatt handels-borgerskap i Frelsøy, som han nok fikk i forbindelse med ekteskapet med </span><span style="font-size: medium;"><strong>Maren Ottesdatter Kruse</strong></span><span style="font-size: medium;">. Før de kom til Austafjord hadde Jens en tid oppholdt seg som utligger-borger på Belseng, tvers over sundet fra Austafjord. Jens kjøpte gården Austafjord, lenge den største gården i Ytre Vikna, av kongens fullmektig van Hoven. Akkurat hvilket år handelen kom i stand vet vi ikke, men i 1669 står Jens Pedersen Schanche som eier og bruker av gården. Det var han helt til han og ektefelle Maren begge døde i 1684. Da overtok deres sønn Jens Jensen Schanche (1653 - 1745) både Austafjord og handelsborgerskapet der. </span></p>
+<p class="western"><span style="font-size: medium;"><strong>Jens Jensen Schanche </strong></span><span style="font-size: medium;">(1653 i Trondheim (?) – 1745). Han var student fra Trondheim og ved Universitet i København i 1678 registrert som «</span><span style="font-size: medium;"><i>Ioannes Schanckius</i></span><span style="font-size: medium;">. I 1696 er Austafjord oppført som odelsgård med Jens som eier og bruker. Han er da også nevnt som utliggerborger. I 1723 er Jens oppført som bruker på Belseng, som fortsatt er krongods. Men i 1729 er Belseng med i det store eiendomskjøpet til Morten Clausen Kiemler, som var Jens’ svigerfar i andre ekteskap (1725, se nedenfor). Allerede i 1730 blir Jens ikke bare bruker, men også eier av Belseng, i tillegg til Austafjord. <br><br>Jens ble i første ekteskap (1686) - med kongens tillatelse og uten forutgående lysning - gift med sin slektning (beslektet i tredje ledd) </span><span style="font-size: medium;"><strong>Siri Pedersdatter Holthe</strong></span><span style="font-size: medium;"> (d. i Trondheim 1724). Ved vigselen er Jens benevnt «hederlige og vellerde unge Mand», senere borger og Nordlandshandler i Trondheim og «udliger paa Austafjord i Numedal» (Namdal). <br></span></p>
+<p class="western"><span style="font-size: medium;">I 1725 giftet Jens seg igjen vel 70 år gammel, med den ca. 53 år yngre </span><span style="font-size: medium;"><strong>Anna Mortens-datter Kiemler</strong></span><span style="font-size: medium;"> (1706 – 1787). Datter av den rike handelsmannen og vinhandleren i Trondheim Morten Clausen Kiemler og Elsbe Henriksdatter Hornemann. <br>Ifølge Vikna-boka var det heller ikke barn i det andre ekteskapet. Noen kilder antyder at neste Schanche på Austafjord, Jens J(o)ensen Schache (1684 – 1766) var deres sønn. Jeg legger imidlertid til grunn at sistnevnte Jens var deres nevø og sønn av Jens’ halv-søster, Siri Jensdatter Schanche (levde ennå1685).</span></p>
+<figure class="post__image post__image--left"><span style="font-size: medium;"><img loading="lazy"  src="https://skankeforeningeninorge.github.io/skankeweb/media/posts/29/Tunet-i-Hansvik.png" alt="" width="462" height="359" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://skankeforeningeninorge.github.io/skankeweb/media/posts/29/responsive/Tunet-i-Hansvik-xs.png 640w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/29/responsive/Tunet-i-Hansvik-sm.png 768w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/29/responsive/Tunet-i-Hansvik-md.png 1024w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/29/responsive/Tunet-i-Hansvik-lg.png 1366w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/29/responsive/Tunet-i-Hansvik-xl.png 1600w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/29/responsive/Tunet-i-Hansvik-2xl.png 1920w"></figure>Da Jens Jensen Schanche døde i 1745, var ektefellen Anna f. Kiemler ikke enda 40 år. Hun gifter seg igjen i 1746 med borgermester i Trondheim </span><span style="font-size: medium;"><strong>Hans Christensen Hagerup</strong></span><span style="font-size: medium;"> (1685 – 1753), og eiendomskomplekset til ektemannen Jens, som enken Anna hadde drevet videre etter hans død, overtas av Hagrup. Han beholder imidlertid ikke eiendom-mene lenge. Allerede i i 1750 selger han til svogeren Peder Larsen Holte, som imidlertid straks selger Austafjord og </span><span style="font-size: medium;">Belseng med tilhørende husmannsplasser videre til den nevnte </span><span style="font-size: medium;"><strong>Jens J(o)ensen Schanche </strong></span><span style="font-size: medium;">(f. 1684 på Hafn under Hestmanden i Nordland, d. 1766 i Austefjord). Etter dette ser det ut til at Belseng er slått sammen med Austafjord. <br>Som nevnt legger jeg til grunn at denne Jens var nevø av Jens Jensen Schanche (1653 – 1745) idet han var sønn av dennes halvsøster, </span><span style="font-size: medium;"><strong>Siri Jensdatter Schanche</strong></span><span style="font-size: medium;"> (levde fortsatt i 1685) og hennes ektefelle i andre ekteskap </span><span style="font-size: medium;"><strong>Jon/Jens Mentzen</strong></span><span style="font-size: medium;">. I første ekteskap hadde Siri vært gift med Peder Hansen Leth (d. 1675).</span></p>
+<p class="western">I 1725 finner vi <span style="font-size: medium;"><strong>Jens J(o)ensen Schanche </strong></span><span style="font-size: medium;">(1684 - 1766 i Austefjord) som eier og bruker av gården Hansvik, nordøst for Rørvik i Indre Vikna. I følge en koppskattliste for 1744 hadde han da to drenger og to tjenestepiker, drev en liten «kremmerhandel», men «subsisterer av sin Gaard og tvende Jægter». Han giftet seg omkring 1727 med </span><span style="font-size: medium;"><strong>Gjertrud Catharina Rasmusdatter Krag</strong></span><span style="font-size: medium;"> (levde som enke i 1773), datter av overhoffrettsprokurator, ombudsmann på Rein kloster, Rasmus Knudsen Krag. <br><br>Jens og Gjertrud fikk seks barn. Alle født på Hansvik. De er spredte over Vikna og utenfor og det er stor etterslekt etter dem. Eldste sønnen Jens Jensen Schanche (1728 – 1795) overtar Hansvik etter faren, da denne i 1750 kjøper Austafjord. Det sjette barnet til Jens og Gjertrud var datteren </span><span style="font-size: medium;"><strong>Marie Jensdatter Krag Schanche</strong></span><span style="font-size: medium;"> (1735 Hansvik – 1823 Austafjord). Hun giftet seg i 1772 med </span><span style="font-size: medium;"><strong>Lars Benjaminsen Sucherbacher</strong></span><span style="font-size: medium;"> (1747 – 1791). <br>Samme år selger enken enken Gjertrud handelsstedet Austafjord og en del av det øvrige jordegodset til sin svigersønn Lars. Under hans drift skjedde det et oppsving av virksomheten og økonomien på Austafjord, etter at det på slutten av svigerfaren Jens’ tid der hadde gått nedover. Lars fikk også bevilling til å selge tobakk i 1778, og det bidro nok. </span></p>
+<p class="western"><span style="font-size: medium;">Marie f. Krag Schanche og Lars hadde bare ett barn, </span><span style="font-size: medium;"><u>Schanche-ætlingen</u></span><span style="font-size: medium;"> </span><span style="font-size: medium;"><strong>Gjertrud Catharina Krag Larsdatter</strong></span><span style="font-size: medium;"> (1773 – 1793). Hun giftet seg i 1792 med </span><span style="font-size: medium;"><strong>Hybert Michael Wibe </strong></span><span style="font-size: medium;">(f. i Bindal 1768). Han overtok i 1793 driften av gården og handelsstedet Austafjord, men ikke eiendomsretten. I 1793 fødte Gjertrud barnet Hyberta. Gjertrud døde under fødselen og Hyberta døde et halvt år etter. <br>I 1796 gifter Hybert seg igjen med </span><span style="font-size: medium;"><strong>Else Qvale </strong></span><span style="font-size: medium;">(d. 1800), datter av sogneprest Andreas Qvale i Nærøy. I 1799 får han utstedt borgerbrev fra borgermesteren i Trondheim, som gir rett til å drive utliggerhandel på Austafjord, og i 1801 får han rett til å drive gjestgiveri. Man må etter dette gå ut fra at det var Hybert Wibe som nå reelt var eier og bruker av Austafjord. Men formelt blir han ikke eier før svigermoren Maria i 1806 utsteder skjøte til ham på hele eiendomskomplekset hun formelt sitter på. Else dør allerede i 1800. I 1803 gifter Hybert seg for tredje gang med </span><span style="font-size: medium;"><strong>Gidsken Borch Lund</strong></span><span style="font-size: medium;"> (1768 i Bindal – 1832 i Austafjord). <br><br>Det var ikke noe småbruk Hybert overtok fra svigermoren Maria i 1806. Det omfattet hele Austafjord, samt øyene Nordøyan, Hellikholmen, Kjelsøya, Skjærvær, Henriksøy og Frelsøy, husmannsplassene Bårdvik og Leirvik, samt Belseng.<br><br>Da enkefru Maria Jensdatter f. Krag Schanche døde i 1823, ble det spørsmål om et testamente hun hadde satt opp i 1794, og som hadde vært oppbevart hos fogden. Hun hadde jo ikke livsarvinger, men alt hun etterlot seg gikk til den nærmeste slekten. <br>Hybert Wibe sitter med gården og handelsstedet til 1839. Da selger han til sin sønn med Gidsken, </span><span style="font-size: medium;"><strong>Johan Michael Wibe</strong></span><span style="font-size: medium;"> (f. 1803 i Austafjord), som var gift med </span><span style="font-size: medium;"><strong>Hanna Lydia Falch</strong></span><span style="font-size: medium;"> (f. 1804 på Kråkøya). De får fire barn. To døde små. Den tredje, datteren Hyberta Georgine ble sinnsyk i ung alder. Den fjerde, sønnen Henrick Lind Falch Wibe var døvstum. Dette kan nok ha medvirket til at Johan M. Wibe allerede i 1849, i en alder av 46 år selger både gården og handelsstedet helt ut av familien og til Andreas Dahl fra Alstadhaug for 3.400 speciedaler. Da er det endelig slutt på Schanche-dynastiet på Austafjord. Formelt skjedde vel dette i 1806, da </span><span style="font-size: medium;"><strong>Marie Jensdatter f. Krag Schanche </strong></span><span style="font-size: medium;">selger eiendommene og handelsstedet til sin svigersønn Hybert Michael Wibe, men han tilhørte jo på sett og vis slekten, i likhet med sin sønn Johan Michael. Da var en omtrent 175 år lang Schanche-dominans over handelen i Vikna og på Austafjord over.</span></p>
+<p class="western"><span style="font-size: medium;"><strong>Etterord. <br></strong></span><span style="font-size: medium;">I følge Viknaboka, bind III s. 19, kommer det med Andreas Dahl en ny ånd og tone inn i styret og stellet på Austafjord. Det sies blant annet: <br>« </span><span style="font-size: medium;"><i>Så lenge Schanche-ætta og Vibe regjerte der har en inntrykk av å møte personer som nok visste å ta vare på seg sjøl, og høste de fordeler som var mulig. Men de var samtidig preget av et visst kultivert og storladent syn, noe som iblant kunne komme til uttrykk overfor den «gemene Mand». Dette kan en til en viss grad forstå av de festekontrakter og bygselsedlerde utsteder, og av de utredsler husmenn og strandsittere skal svare til jorddrotten. Hos Andreas Dahl møter en noe annet. Her er alt preget av en mann som vet om sin egen makt over «almuen», og som ikke er nådig mot den som ikke til punkt og prikke etterkommer det som er fastsatt i de utallige festesedler, bygselbrev og leiekontrakter han utsteder.</i></span><span style="font-size: medium;">»</span></p>
+<figure class="post__image"><img loading="lazy"  src="https://skankeforeningeninorge.github.io/skankeweb/media/posts/29/Austafjord-flyfoto.png" alt="" width="798" height="602" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://skankeforeningeninorge.github.io/skankeweb/media/posts/29/responsive/Austafjord-flyfoto-xs.png 640w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/29/responsive/Austafjord-flyfoto-sm.png 768w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/29/responsive/Austafjord-flyfoto-md.png 1024w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/29/responsive/Austafjord-flyfoto-lg.png 1366w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/29/responsive/Austafjord-flyfoto-xl.png 1600w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/29/responsive/Austafjord-flyfoto-2xl.png 1920w"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Skanke-stevnet i Bergen 2024</title>
+        <author>
+            <name>Anne-Lise Grytbak</name>
+        </author>
+        <link href="https://skankeforeningeninorge.github.io/skankeweb/skankestevnet-i-bergen-2024.html"/>
+        <id>https://skankeforeningeninorge.github.io/skankeweb/skankestevnet-i-bergen-2024.html</id>
+            <category term="Stevner"/>
+
+        <updated>2025-11-10T22:02:38+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Skanke-stevnet i 2024 ble avholdt i Bergen 7.-9. juni 2024. Bergen svarte til sitt rykte da vi ankom Thon Hotel Rosenkrantz på fredagen. Det måtte selvfølgelig regne litt! For første&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div>Skanke-stevnet i 2024 ble avholdt i Bergen 7.-9. juni 2024. Bergen svarte til sitt rykte da vi ankom Thon Hotel Rosenkrantz på fredagen. Det måtte selvfølgelig regne litt!</div>
+<div>For første gang var årsmøtet lagt til fredag ettermiddag, etter et foredrag av Hans Brattestå om tidligere Skanker i Bergen, mye basert på artikkelen Hans skrev til Skanke-nytt nr. 1-2024. Det ble litt forsinkelser, så nå vet vi at vi i alle fall skal beregne to timer på årsmøte og medlemsmøte.</div>
+<div> </div>
+<div>Hotellet vårt var fint og koselig og en god ramme for stevnet vårt, hvor praten gikk ivrig blant kjente og nye medlemmer ved måltidene og ellers. Lørdag måtte vi låne paraplyer på hotellet før vi dro til Holmen med</div>
+<div> </div>
+<h5>Rosenkrantztårnet og Håkonshallen</h5>
+<div>Håkonshallen fikk vi se fra kjeller til topp, og det var et interessant og spennende bygg konservator Anne-Brit Vihovde viste oss.</div>
 <p> </p>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>Webside utvikling har startet</title>
+        <title>Stortingsrepresentant Sivert Bjørnstad: En Skanke i farten</title>
         <author>
-            <name>Magne Seim</name>
+            <name>Gunn-Helen Lykke</name>
         </author>
-        <link href="https://skankeforeningeninorge.github.io/skankeweb/webside-utvikling-startet.html"/>
-        <id>https://skankeforeningeninorge.github.io/skankeweb/webside-utvikling-startet.html</id>
-            <category term="Nyheter"/>
-
-        <updated>2025-04-24T16:20:57+02:00</updated>
-            <summary>
-                <![CDATA[
-                    I arbeidet med ny hjemmeside for Skankeforeningen har vi hatt flere møter siden i høst og inntil nylig. Vi har diskutert temaer som design, innhold, funksjonalitet, teknologi med mere og hvordan siden skal driftes, administreres og økonomien i prosjektet. Mange spørsmål og noen svar. Prosjektetplan&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p class="western" align="left">I arbeidet med ny hjemmeside for Skankeforeningen har vi hatt flere møter siden i høst og inntil nylig. Vi har diskutert temaer som design, innhold, funksjonalitet, teknologi med mere og hvordan siden skal driftes, administreres og økonomien i prosjektet. Mange spørsmål og noen svar.</p>
-<p class="western" align="left"> </p>
-<p class="western" align="left">Prosjektetplan – Ny hjemmeside for Skanekforeningen.no</p>
-<p class="western" align="left">Oppgaveliste.</p>
-<p class="western" align="left"> </p>
-<ol>
-<li>
-<p class="western" align="left">Utarbeide hjemmesidens utseende, innhold og dialogform</p>
-</li>
-<li>
-<p class="western" align="left">Informasjon og avklaringsmøte med styret</p>
-</li>
-<li>
-<p class="western" align="left">Valg av funksjonalitet og teknologi</p>
-</li>
-<li>
-<p class="western" align="left">Vurdere beste programvare for teknisk gjennomføring</p>
-</li>
-<li>
-<p class="western" align="left">Utvikle en pilot for hjemmesiden</p>
-</li>
-<li>
-<p class="western" align="left">Evaluere resultat av ny hjemmeside med ressursplan og kostnadsoversikt</p>
-</li>
-<li>
-<p class="western" align="left">Demo og presentasjon for styret</p>
-</li>
-<li>
-<p class="western" align="left">Vedtak om ressursbruk, kostnader for implementering av ny hjemmeside</p>
-</li>
-<li>
-<p class="western" align="left">Iverksette implementering og produksjonsetting av hjemmesiden</p>
-</li>
-</ol>
-<p class="western" align="left"> </p>
-<p class="western" align="left"> </p>
-<p class="western" align="left">Tid og aktivitetsplan</p>
-<p class="western" align="left"> </p>
-<p class="western" align="left"> </p>
-<table width="100%" cellspacing="0" cellpadding="4">
-<tbody>
-<tr valign="top">
-<td width="11%" height="6">
-<p align="left"><span style="color: #000000;"><span style="font-size: medium;">Oppgave</span></span></p>
-</td>
-<td width="70%">
-<p align="left"><span style="color: #000000;"><span style="font-size: medium;">Status</span></span></p>
-</td>
-<td width="19%">
-<p align="left"><span style="color: #000000;"><span style="font-size: medium;">Dato</span></span></p>
-</td>
-</tr>
-<tr valign="top">
-<td width="11%">
-<p align="left"><span style="color: #000000;"><span style="font-size: medium;">1</span></span></p>
-</td>
-<td width="70%">
-<p align="left"><span style="color: #000000;"><span style="font-size: medium;">Kravspesifikasjon nesten ferdig</span></span></p>
-</td>
-<td width="19%">
-<p align="left"><span style="color: #000000;"><span style="font-size: medium;">29.01.2025</span></span></p>
-</td>
-</tr>
-<tr valign="top">
-<td width="11%">
-<p align="left"><span style="color: #000000;"><span style="font-size: medium;">2</span></span></p>
-</td>
-<td width="70%">
-<p align="left"><span style="color: #000000;"><span style="font-size: medium;">Medlemsregister utsettes i første fase</span></span></p>
-</td>
-<td width="19%">
-<p align="left"><span style="color: #000000;"><span style="font-size: medium;">Medio februar</span></span></p>
-</td>
-</tr>
-<tr valign="top">
-<td width="11%">
-<p align="left"><span style="color: #000000;"><span style="font-size: medium;">3</span></span></p>
-</td>
-<td width="70%">
-<p align="left"><span style="color: #000000;"><span style="font-size: medium;">Valg av layout mal velges</span></span></p>
-</td>
-<td width="19%">
-<p align="left"><span style="color: #000000;"><span style="font-size: medium;">Medio februar</span></span></p>
-</td>
-</tr>
-<tr valign="top">
-<td width="11%">
-<p align="left"><span style="color: #000000;"><span style="font-size: medium;">4</span></span></p>
-</td>
-<td width="70%">
-<p align="left"><span style="color: #000000;"><span style="font-size: medium;">Utføres på utstyr hos Åge</span></span></p>
-</td>
-<td width="19%">
-<p align="left"><span style="color: #000000;"><span style="font-size: medium;">Media mars</span></span></p>
-</td>
-</tr>
-<tr valign="top">
-<td width="11%">
-<p align="left"><span style="color: #000000;"><span style="font-size: medium;">5</span></span></p>
-</td>
-<td width="70%">
-<p align="left"><span style="color: #000000;"><span style="font-size: medium;">Plan for kost og ressursbruk utarbeides</span></span></p>
-</td>
-<td width="19%">
-<p align="left"><span style="color: #000000;"><span style="font-size: medium;">Medio april</span></span></p>
-</td>
-</tr>
-<tr valign="top">
-<td width="11%">
-<p align="left"><span style="color: #000000;"><span style="font-size: medium;">6</span></span></p>
-</td>
-<td width="70%">
-<p align="left"><span style="color: #000000;"><span style="font-size: medium;">Dato velges etter punkt 5</span></span></p>
-</td>
-<td width="19%">
-<p align="left"><span style="color: #000000;"><span style="font-size: medium;">Medio april</span></span></p>
-</td>
-</tr>
-<tr valign="top">
-<td width="11%">
-<p align="left"><span style="color: #000000;"><span style="font-size: medium;">7</span></span></p>
-</td>
-<td width="70%">
-<p align="left"><span style="color: #000000;"><span style="font-size: medium;">Styret gjør vedtak</span></span></p>
-</td>
-<td width="19%">
-<p align="left"><span style="color: #000000;"><span style="font-size: medium;">Medio april/mai</span></span></p>
-</td>
-</tr>
-<tr valign="top">
-<td width="11%">
-<p align="left"><span style="color: #000000;"><span style="font-size: medium;">8</span></span></p>
-</td>
-<td width="70%">
-<p align="left"><span style="color: #000000;"><span style="font-size: medium;">Hjemmesiden aktiveres for publikum</span></span></p>
-</td>
-<td width="19%">
-<p align="left"><span style="color: #000000;"><span style="font-size: medium;">Medio mai</span></span></p>
-</td>
-</tr>
-</tbody>
-</table>
-<p class="western" align="left"> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Søk om stipend </title>
-        <author>
-            <name>Magne Seim</name>
-        </author>
-        <link href="https://skankeforeningeninorge.github.io/skankeweb/sok-om-stipend.html"/>
-        <id>https://skankeforeningeninorge.github.io/skankeweb/sok-om-stipend.html</id>
-            <category term="Nyheter"/>
-
-        <updated>2025-04-24T15:47:42+02:00</updated>
-            <summary>
-                <![CDATA[
-                    Hei alle medlemmer. Styret ønsker å få bedre viten om våre slektsgrener i tiden før våre forfedre bosatte seg i Hakäs. Styret har i denne anledning bevilget kroner ett hundre tusen til beste prosjekt.
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Hei alle medlemmer.</p>
-<p>Styret ønsker å få bedre viten om våre slektsgrener i tiden før våre forfedre bosatte seg i Hakäs. Styret har i denne anledning bevilget kroner  ett hundre tusen til beste prosjekt.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>En Skanke i farten: Sivert Bjørnstad</title>
-        <author>
-            <name>Magne Seim</name>
-        </author>
-        <link href="https://skankeforeningeninorge.github.io/skankeweb/en-skanke-i-farten-sivert-bjornstad.html"/>
-        <id>https://skankeforeningeninorge.github.io/skankeweb/en-skanke-i-farten-sivert-bjornstad.html</id>
+        <link href="https://skankeforeningeninorge.github.io/skankeweb/stortingsrepresentant-sivert-bjornstad-en-skanke-i-farten.html"/>
+        <id>https://skankeforeningeninorge.github.io/skankeweb/stortingsrepresentant-sivert-bjornstad-en-skanke-i-farten.html</id>
             <category term="Artikler"/>
 
-        <updated>2025-04-24T15:32:13+02:00</updated>
-            <summary>
+        <updated>2025-11-10T22:00:54+01:00</updated>
+            <summary type="html">
                 <![CDATA[
-                    En Skanke i farten: Stortingsrepresentant Sivert Bjørnstad Av Gunn-Helen Lykke Nylig kunne man lese i avisene at Sivert Bjørnstad (FRP) ikke tar gjenvalg til Stortinget høsten 2025. Men hvem er så Sivert? Sivert Bjørnstad er født 3. oktober 1990 i Trondheim. Han er sønn av&hellip;
+                    Nylig kunne man lese i avisene at Sivert Bjørnstad (FRP) ikke tar gjenvalg til Stortinget høsten 2025. Men hvem er så Sivert? Sivert Bjørnstad er født 3. oktober 1990 i&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <div>En Skanke i farten: Stortingsrepresentant Sivert Bjørnstad</div>
+                <p>Nylig kunne man lese i avisene at Sivert Bjørnstad (FRP) ikke tar gjenvalg til Stortinget høsten 2025. Men hvem er så Sivert?</p>
+<figure class="post__image"><img loading="lazy"  src="file:///home/aages/Dropbox/Skankewebside/skankeforeningen-magnes-forslag/input/media/posts/14/En-Skanke-2.jpg" alt="" width="235" height="344" sizes="(max-width: 1920px) 100vw, 1920px" srcset="file:///home/aages/Dropbox/Skankewebside/skankeforeningen-magnes-forslag/input/media/posts/14/responsive/En-Skanke-2-xs.jpg 640w ,file:///home/aages/Dropbox/Skankewebside/skankeforeningen-magnes-forslag/input/media/posts/14/responsive/En-Skanke-2-sm.jpg 768w ,file:///home/aages/Dropbox/Skankewebside/skankeforeningen-magnes-forslag/input/media/posts/14/responsive/En-Skanke-2-md.jpg 1024w ,file:///home/aages/Dropbox/Skankewebside/skankeforeningen-magnes-forslag/input/media/posts/14/responsive/En-Skanke-2-lg.jpg 1366w ,file:///home/aages/Dropbox/Skankewebside/skankeforeningen-magnes-forslag/input/media/posts/14/responsive/En-Skanke-2-xl.jpg 1600w ,file:///home/aages/Dropbox/Skankewebside/skankeforeningen-magnes-forslag/input/media/posts/14/responsive/En-Skanke-2-2xl.jpg 1920w"></figure>
 <div> </div>
-<div>Av Gunn-Helen Lykke</div>
 <div> </div>
-<div><figure class="post__image"><img loading="lazy"  src="https://skankeforeningeninorge.github.io/skankeweb/media/posts/14/En-Skanke-2.jpg" alt="" width="235" height="344" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://skankeforeningeninorge.github.io/skankeweb/media/posts/14/responsive/En-Skanke-2-xs.jpg 640w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/14/responsive/En-Skanke-2-sm.jpg 768w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/14/responsive/En-Skanke-2-md.jpg 1024w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/14/responsive/En-Skanke-2-lg.jpg 1366w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/14/responsive/En-Skanke-2-xl.jpg 1600w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/14/responsive/En-Skanke-2-2xl.jpg 1920w"></figure></div>
-<div> </div>
-<div>Nylig kunne man lese i avisene at Sivert Bjørnstad (FRP) ikke tar gjenvalg til Stortinget høsten 2025. Men hvem er så Sivert?</div>
-<div> </div>
-<div>Sivert Bjørnstad er født 3. oktober 1990 i Trondheim. Han er sønn av entreprenør Karl Ove Bjørnstad og frisør- mester Linda Haugen. Han har utdanning fra Handels- høyskolen BI. Sivert giftet seg i 2024 med Mari Holm Lønseth som er stortingsrepresentant for Høyre (S.T.) siden 2017.</div>
+<div>Sivert Bjørnstad er født 3. oktober 1990 i Trondheim. Han er sønn av entreprenør Karl Ove Bjørnstad og frisør- mester Linda Haugen. Han har utdanning fra Handels- høyskolen BI. Sivert giftet seg i 2024 med Mari Holm Lønseth som er stortings-representant for Høyre (S.T.) siden 2017.</div>
 <div> </div>
 <div>Sivert Bjørnstad ble valgt inn på Stortinget for FRP høsten 2013, bare 23 år gammel. I perioden 2013-2016 var han medlem av Kirke-, utdannings- og forskningskomiteen. 2016-2017 medlem av Næringskomiteen, 2017-2021 medlem av Finanskomiteen, og i perioden 2021 til 2025 sitter han i Stortingets næringskomite.</div>
 <div> </div>
@@ -306,246 +317,224 @@
 <div> </div>
 <div>Sivert Bjørnstad, født 3. oktober 1990 i Trondheim</div>
 <div> </div>
-<div>Kilder: Wikipedia</div>
-<div> </div>
-<div>Roger de Robelin: Skanke-Ætten</div>
+<div>Kilder:</div>
+<ul>
+<li>Wikipedia</li>
+<li>Roger de Robelin: Skanke-Ætten</li>
+</ul>
 </div>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>Styrelederoversikt fra start til i dag</title>
+        <title>Program og påmelding til Skanke-stevne i Bergen 2024</title>
         <author>
-            <name>Magne Seim</name>
+            <name>Hans Brattestå</name>
         </author>
-        <link href="https://skankeforeningeninorge.github.io/skankeweb/styrelederoversikt.html"/>
-        <id>https://skankeforeningeninorge.github.io/skankeweb/styrelederoversikt.html</id>
-            <category term="OmOss"/>
+        <link href="https://skankeforeningeninorge.github.io/skankeweb/skankestevne-i-bergen-2024.html"/>
+        <id>https://skankeforeningeninorge.github.io/skankeweb/skankestevne-i-bergen-2024.html</id>
+            <category term="Nyheter"/>
 
-        <updated>2025-04-24T14:29:59+02:00</updated>
-            <summary>
+        <updated>2024-11-10T21:56:00+01:00</updated>
+            <summary type="html">
                 <![CDATA[
-                    Styreledere i Skanke-foreningen i Norge fra grunnleggelsen i 1982. 1. Andreas Schanke, 1982 - 1985, valgt i konstituerende møte i Oslo 22.5.1982. (Røros-linjen, Spell-grenen.) 2. Ivar Magnus. Skancke, 1985-1993, valgt på årsmøte i Stavanger. (Røros-linjen, Knut-grenen.) 3. Jan Schanche Dølør, 1993 - 1995, valgt på&hellip;
+                    Skankeforeningen arrangerer Skankestevne og årsmøte i Bergen, fra 7. til 9. juni. Stevnehotell er Thon Hotel Rosenkrantz, Rosenkrantzgaten 7, 5003 Bergen (Bak Bryggen). Deltakeravgift for stevnet er på kr. 2.500&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <div>Styreledere i Skanke-foreningen i Norge fra grunnleggelsen i 1982.</div>
-<div> </div>
-<div>1. Andreas Schanke, 1982 - 1985, valgt i konstituerende møte i Oslo 22.5.1982. <span style="text-decoration: underline;">(Røros-linjen,</span> Spell-grenen.)</div>
-<div> </div>
-<div>2. Ivar Magnus. Skancke, 1985-1993, valgt på årsmøte i Stavanger. (Røros-linjen, Knut-grenen.)</div>
-<div> </div>
-<div>3. Jan Schanche Dølør, 1993 - 1995, valgt på årsmøte på Hamar. (Finvedgaard-linjen, Finnmark-grenen.)</div>
-<div> </div>
-<div>4. Inger Lise Skancke, 1995-1997, valgt på årsmøte i Leksand, Sverige. (Røros-linjen, Knut-grenen.)</div>
-<div> </div>
-<div>5. Olav Skancke, 1997-2001, valgt på årsmøte i Rosendal. (Røros-linjen, Jens-grenen.)</div>
-<div> </div>
-<div>6. John Arve Riise, 2001-2007, valgt på årsmøte i Tromsø. (Røros-linjen, Knutgrenen.)</div>
-<div> </div>
-<div>7. Christina Frøysland, 2007-2009, valgt på årsmøte på Røros. (Røros-linjen/Faste-grenen.)</div>
-<div> </div>
-<div>8. Hans Brattestå, 2009 - 2022, valgt på årsmøte i Oslo. (Faxnälden-linjen, Seljord-grenen.)</div>
-<div> </div>
-<div>9. Magne Seim, 2022 - 2024, valgt på årsmøte i Brekstad, Ørland. (Finvedgaard-linjen/Finnmark-<wbr>grenen.)</div>
-<div> </div>
-<div>10. Hans Brattestå 2024 -, valgt på årsmøte i Bergen (Faxnälden-linjen, Seljord-grenen.)</div>
-<div> </div>
+                <p>Skankeforeningen arrangerer Skankestevne og årsmøte i Bergen, fra 7. til 9. juni. Stevnehotell er Thon Hotel Rosenkrantz, Rosenkrantzgaten 7, 5003 Bergen (Bak Bryggen).</p>
+<h3>Program</h3>
+<h5>Fredag 7. juni:</h5>
+<ul>
+<li>kl. 15.30 påbegynnes registrering.  Møt i Hotellets resepsjonsområde.</li>
+<li>Kl. 17.00: Velkomst på møterom «Fisketorget» Orienteringer ved styreleder Magne Seim.</li>
+<li>Kl. 17.15: Litt om noen tidlige Skanker i Bergen ved Hans Brattestå.</li>
+<li>Kl. 18.00: Årsmøte i Skanke-foreningen i Norge på «Fisketorget» møterom.<br>Etterfølgende medlemsmøte.</li>
+<li>Kl. 19.30: Uformell 2-retters middag i hotellets restaurant (adskilt område). Drikke på egen regning.</li>
+</ul>
+<h5>Lørdag 8. juni:</h5>
+<ul>
+<li>Frokost i hotellet.</li>
+<li>kl. 09.30: Avgang fra hotellet.</li>
+<li>Kl. 10.00: Besøk Holmen med Rosenkrantztårnet (bare ute), Håkonshallen, med fokus på det historiske Holmen (og litt om Munkeliv kloster). Ved konservator ved Bergen Bymuseum Anne-Brit Vihovde.</li>
+<li>Kl. 13.00: Lunsj i hotellets restaurant (adskilt område) - Dagen 2-retters meny. Drikke på egen regning.</li>
+<li>Kl. 14.30: Avgang til Skolemuseet/gamle Bergen Katedralskole i Lille Øvregate 38.</li>
+<li>Kl. 15.00: Besøk i Skolemuseet/Gamle Bergen Katedralskole (Latinskolen) med foredrag om skolens tidlige historie. Her var Jon Mogenssøn Skancke (ca. 1570 – 1618) rektor fra 1593-96. Ved konservator ved Bergen Bymuseum, Baard Skogrand eller Knut Høiaas.</li>
+<li>Kl. 16.30: Retur til hotellet/tid til egen disposisjon.</li>
+<li>Kl. 19.30: Festmiddag i hotellets Lounge. Påfølgende sosialt samvær.</li>
+</ul>
+<h5><strong>Søndag 9. juni:</strong></h5>
+<ul>
+<li>Frokost. Utsjekking</li>
+<li>Kl. 09.30: Komponisten og fiolinisten Ole Bornemann Bull (1810 – 1880): <span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">«Ole og Oleana». </span><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Foredrag ved professor (og Skanke-ætling) Harald Herresthal</span><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">. Vi er på </span><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">«Fisketorget» møterom.</span></li>
+<li>Kl. 11.00: Avgang buss til Valestrandsfossen på Osterøy via Osterøybroen.</li>
+<li>Kl. 12.00: Besøk i «Bullahuset». Fiolinisten, komponisten og Skanke-ætlingen <span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Ole Bornemann Bulls (1810 – 1880) sommersted på Osterøy. </span><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Omvisning ved professor Harald Herresthal</span><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"> og antagelig stedets nåværende eier og etterkommer av Ole Bull, Carl-Michael Hendriksen Palmér.</span></li>
+<li>Kl. 13.30: Buss via Lonevåg til Mjøsvågen.</li>
+<li>Kl. 14.00: Lunsj på Den Grøne Fabrikken i Mjøsvågen. Osterøyvegen 2106, Hosanger.</li>
+<li>Kl. 15.30: Besøk til Hosanger kirke, hvor Carsten Henrik Schanche (1744 – 1789) <span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">var sogneprest 1773 – 1776 og kirkeeier til flere kirker i sognet. </span><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Ved Hans Brattestå.</span></li>
+<li>Kl. 16.30 (ca.)  Bussavgang til tilbake til Bergen via Osterøybroen. <span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Ankomst hotellet ca. kl. 17.30.</span></li>
+<li>Individuelle avreiser.</li>
+</ul>
+<p> </p>
+<p>Deltakeravgift for stevnet er på kr. 2.500 pr. person (ekslusive hotell). I denne prisen inngår konferansepakke, middag i Thon Hotell Rosenkrantz fredag kveld, lunsj i hotellet lørdag, festmiddag i hotellet lørdag kveld, lunsj på Osterøy søndag og alle utgifter i forbindelse med utflukter, honorarer og inngangsbilletter, jfr. program for stevnet.</p>
+<p>Kopier skjemaet nederst i denne teksten og send det til: <br>Hans Brattestå, Skøyen terrasse 38, 0276 OSLO eller <br>alternativt som vedlegg til epost: <a href="mailto:brattesta@hotmail.com">brattesta@hotmail.com.</a></p>
+<p>Retur av skjemaet må skje snarest og senest mandag 13. mai  d.å. av hensyn til de praktiske forberedelser, bestillinger m.v. som må gjøres.</p>
+<p>Samtidig med påmelding bes det aktuelle beløp innbetalt til Skanke-foreningen på vår konto nr.: 4280 11 42146 i Rørosbanken. I meldingsfeltet oppgis referanse ”Skankestevne”, samt navn på deltaker(e).<br>(Ved betaling fra utlandet, IBAN: NO34 42801142146, SWIFT/BIC-kode RORBNO21)</p>
+<p class="western">Spørsmål om stevnet kan rettes til Hans Brattestå, tlf. 930.63.523. <br>Alternativt ved e-post <a href="mailto:brattesta@hotmail.com"><span style="color: #0000ff;"><span style="font-family: Calibri, serif;"><u>brattesta@hotmail.com</u></span></span></a></p>
+<h5>Bestilling av hotell i Bergen</h5>
+<p>(Merk at frist for spesialpris er 1. mai)</p>
+<p>Vi har gjort avtale med Thon Hotel Rosenkrantz, Rosenkrantz gate 7, 5003 Bergen, <br>om overnatting og arrangement under stevnet. Hotellet ligger midt i byen, «bak Bryggen»,  med det meste av severdigheter innen gangavstand. <br><br><span style="text-decoration: underline;"><span style="color: #000000; text-decoration: underline;">Hotellrom bestilles og betales av den enkelte deltaker og dette må helst gjøres via følgende lenke</span></span>: https://www.thonhotels.no/event/skanke-foreningen-i-norge/ .<br>Dersom noen ikke får til å bestille via lenken, så kan de ta kontakt med hotellet på <br>e-post: rosenkrantz.booking@olavthon.no  eller tlf. 55 30 14 00. <br>Hvis du ringer inn må du be om å få snakke med kurs og konferanse-avdelingen på hotellet. Ved kontakt pr. epost eller telefon oppgi referanse ID 30281419 Skanke-Foreningen.<br><br>Vår spesialpris for overnatting er kr. 1.895 for standard enkeltrom og kr. 2.195 for standard dobbeltrom pr. natt, inkl. frokost. Vi har en blokkreservasjon på 20 rom til 1.mai, så bestill rom før dette. Etter 1. mai vil man måtte kontakte hotellet direkte og betale ordinær pris.</p>
+<hr>
+<h5>Påmeldingsskjema til skankestevne i Bergen 2024</h5>
+<p> </p>
+<p>Kr. ………………… er innbetalt til Skanke-foreningen, jfr. opplysningene ovenfor.</p>
+<p>Jeg/vi ønsker å delta på Skanke-stevnet i Bergen 7. – 9. juni 2024:</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 6.85662%;"> </td>
+<td style="width: 26.5147%;">Deltakers navn</td>
+<td style="width: 42.4986%;">Adresse og e-post-adresse</td>
+<td style="width: 24.1015%;">Tlf. nr. /mobil</td>
+</tr>
+<tr>
+<td style="width: 6.85662%;">1</td>
+<td style="width: 26.5147%;"> </td>
+<td style="width: 42.4986%;"> </td>
+<td style="width: 24.1015%;"> </td>
+</tr>
+<tr>
+<td style="width: 6.85662%;">2</td>
+<td style="width: 26.5147%;"> </td>
+<td style="width: 42.4986%;"> </td>
+<td style="width: 24.1015%;"> </td>
+</tr>
+<tr>
+<td style="width: 6.85662%;">3</td>
+<td style="width: 26.5147%;"> </td>
+<td style="width: 42.4986%;"> </td>
+<td style="width: 24.1015%;"> </td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<p><strong><u>Opplysninger om innkvartering og deltakelse under stevnet:<br></u></strong></p>
+<ul>
+<li>Jeg/vi har bestilt innkvartering på Thon Hotel Rosenkrantz     ………………..</li>
+<li>Jeg/vi har ordnet annen innkvartering/bor privat                      ………………..</li>
+<li>Jeg/vi deltar på middagen fredag kveld, antall                         ………………..</li>
+<li>Jeg/vi deltar på utflukten til Holmen lørdag formiddag, antall   ………………..</li>
+<li>Jeg/vi deltar på lunsjen i hotellet lørdag, antall                         ……………….</li>
+<li>Jeg/vi deltar ved besøket til Latinskolen lørdag etterm., antall ………………..</li>
+<li>Jeg/vi deltar på festmiddagen lørdag kveld/antall                    ………………..</li>
+<li>Jeg/vi deltar under utflukten til Osterøy på søndag/antall        ………………..<br>           </li>
+</ul>
+<p>Evt. andre opplysninger om deltakelse, matrestriksjoner m.v.:  ………………………………………………………………………………………………………</p>
+<p>………………………………………………………………………………………………………</p>
+<p><span style="font-family: Calibri, serif;">Sted/Dato Underskrift</span></p>
+<p>………………………………………………………………………………</p>
+<p> </p>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>Skankestevnet i Bergen 2024</title>
+        <title>Program for Skanke-stevne i Tromsø</title>
         <author>
-            <name>Magne Seim</name>
+            <name>Hans Brattestå</name>
         </author>
-        <link href="https://skankeforeningeninorge.github.io/skankeweb/skankestevnet-i-bergen-2024.html"/>
-        <id>https://skankeforeningeninorge.github.io/skankeweb/skankestevnet-i-bergen-2024.html</id>
-            <category term="Stevner"/>
+        <link href="https://skankeforeningeninorge.github.io/skankeweb/program-for-skankestevne-i-tromso.html"/>
+        <id>https://skankeforeningeninorge.github.io/skankeweb/program-for-skankestevne-i-tromso.html</id>
+            <category term="Nyheter"/>
 
-        <updated>2025-04-24T12:23:48+02:00</updated>
-            <summary>
+        <updated>2018-11-10T21:54:00+01:00</updated>
+            <summary type="html">
                 <![CDATA[
-                    Skanke-stevnet i Bergen 7.-9. juni 2024. Av Anne-Lise Grytbak Bergen svarte til sitt rykte da vi ankom Thon Hotel Rosenkrantz på fredagen. Det måtte selvfølgelig regne litt! For første gang var årsmøtet lagt til fredag ettermiddag, etter et foredrag av Hans Brattestå om tidligere Skanker&hellip;
+                    Fredag 3. august: Mingling. Kl. 16.30 Velkomst. Orienteringer. Kl. 19.00 Uformell middag (2 retters) i hotellet. Sted: Frokostsalen («Spiseriet») i 3. et. Etterfølgende sosialt samvær. Lørdag. 4. august: Frokost. Kl.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <div>Skanke-stevnet i Bergen 7.-9. juni 2024.</div>
-<div> </div>
-<div>Av Anne-Lise Grytbak</div>
-<div> </div>
-<div>Bergen svarte til sitt rykte da vi ankom Thon Hotel Rosenkrantz på fredagen. Det måtte selvfølgelig regne litt!</div>
-<div> </div>
-<div>For første gang var årsmøtet lagt til fredag ettermiddag, etter et foredrag av Hans Brattestå om tidligere Skanker i Bergen, mye basert på artikkelen Hans skrev til Skanke-nytt nr. 1-2024. Det ble litt forsinkelser, så nå vet vi at vi i alle fall skal beregne to timer på årsmøte og medlemsmøte.</div>
-<div> </div>
-<div>Hotellet vårt var fint og koselig og en god ramme for stevnet vårt, hvor praten gikk ivrig blant kjente og nye medlemmer ved måltidene og ellers.</div>
-<div> </div>
-<div>Lørdag måtte vi låne paraplyer på hotellet før vi dro til Holmen med</div>
-<div> </div>
-<div>Rosenkrantztårnet og Håkonshallen. Håkonshallen fikk vi se fra kjeller til topp, og det var et interessant og spennende bygg konservator Anne-Brit Vihovde viste oss.</div>
-<div> </div>
-<div><figure class="post__image"><img loading="lazy"  src="https://skankeforeningeninorge.github.io/skankeweb/media/posts/12/Skankestevnet2024-Bergen.jpg" alt="" width="4032" height="2268" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://skankeforeningeninorge.github.io/skankeweb/media/posts/12/responsive/Skankestevnet2024-Bergen-xs.jpg 640w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/12/responsive/Skankestevnet2024-Bergen-sm.jpg 768w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/12/responsive/Skankestevnet2024-Bergen-md.jpg 1024w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/12/responsive/Skankestevnet2024-Bergen-lg.jpg 1366w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/12/responsive/Skankestevnet2024-Bergen-xl.jpg 1600w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/12/responsive/Skankestevnet2024-Bergen-2xl.jpg 1920w"></figure></div>
-<div> </div>
-<div>Mer tekst....</div>
+                <p>Fredag 3. august:</p>
+<p>Mingling. Kl. 16.30 Velkomst. Orienteringer.</p>
+<ul>
+<li>Hans Brattestå forteller om «Tromsø og tidlige Skanker der».</li>
+<li>Randi Johanne Skancke Svendsen forteller om Skanckene i Mefjordvær og oppveksten der.</li>
+<li>Torbjørn Schanche forteller om sin far, Trygve Schanche (1907-1999), legendarisk lensmann i Polmak og Alta. Sted: Aurora Borealis i Konferanseavdelingen, 3. et.</li>
+</ul>
+<p>Kl. 19.00 Uformell middag (2 retters) i hotellet. Sted: Frokostsalen («Spiseriet») i 3. et. Etterfølgende sosialt samvær.</p>
+<p>Lørdag. 4. august: Frokost. Kl. 09.00 Årsmøte i Skanke-foreningen i Norge. Sted: Aurora Borealis i Konferanseavdelingen, 3. et.</p>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>Skankestyret pr. 7.6.2024</title>
+        <title>Årsmøte i Tromsø 2018</title>
         <author>
-            <name>Magne Seim</name>
+            <name>Hans Brattestå</name>
         </author>
-        <link href="https://skankeforeningeninorge.github.io/skankeweb/skankestyret-pr-762024.html"/>
-        <id>https://skankeforeningeninorge.github.io/skankeweb/skankestyret-pr-762024.html</id>
-            <category term="OmOss"/>
+        <link href="https://skankeforeningeninorge.github.io/skankeweb/arsmote-i-tromso-2018.html"/>
+        <id>https://skankeforeningeninorge.github.io/skankeweb/arsmote-i-tromso-2018.html</id>
+            <category term="Nyheter"/>
 
-        <updated>2025-04-24T11:15:55+02:00</updated>
-            <summary>
+        <updated>2018-11-10T21:53:00+01:00</updated>
+            <summary type="html">
                 <![CDATA[
-                    Det nye styret i Skanke-foreningen, etter årsmøtet i Bergen 7.6.2024. Hans Brattestå, styreleder. Jeg er født i Tønsberg 17.5.1947 og vokste opp i Ramnes i Vestfold. Jeg er cand.jur. (jurist) fra UiO 1976. Jeg har videre offisersutdannelse fra ISØ/Heistadmoen 1970 og gjennomførte Utenriksdepartementets aspirantkurs 1976/78.
+                    Det innkalles til årsmøte i Skanke-foreningen i Norge, med påfølgende medlemsmøte lørdag 4. august 2018, kl. 09.00 i Thon Polar Hotel (3. etg) i Grønnegata 45, 9008 Tromsø, i forbindelse&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <div>Det nye styret i Skanke-foreningen, etter årsmøtet i Bergen 7.6.2024.</div>
-<div> </div>
-<div>Hans Brattestå, styreleder.</div>
-<div><figure class="post__image"><img loading="lazy"  src="https://skankeforeningeninorge.github.io/skankeweb/media/posts/11/Hans-Brattesta.jpg" alt="" width="260" height="462" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://skankeforeningeninorge.github.io/skankeweb/media/posts/11/responsive/Hans-Brattesta-xs.jpg 640w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/11/responsive/Hans-Brattesta-sm.jpg 768w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/11/responsive/Hans-Brattesta-md.jpg 1024w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/11/responsive/Hans-Brattesta-lg.jpg 1366w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/11/responsive/Hans-Brattesta-xl.jpg 1600w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/11/responsive/Hans-Brattesta-2xl.jpg 1920w"></figure></div>
-<div> </div>
-<div>Jeg er født i Tønsberg 17.5.1947 og vokste opp i Ramnes i Vestfold.</div>
-<div> </div>
-<div>Jeg er cand.jur. (jurist) fra UiO 1976. Jeg har videre offisersutdannelse fra ISØ/Heistadmoen 1970 og</div>
-<div> </div>
-<div>gjennomførte Utenriksdepartementets aspirantkurs 1976/78. Jeg tjenestegjorde i Utenriksdepartementet fra 1976 til 1984, samt første halvår i 1987, herunder med utetjeneste ved ambassadene i Tel Aviv, Washington D.C. og ved FN- delegasjonen i New York.</div>
-<div> </div>
-<div>Jeg ble leder for Stortingets internasjonale sekretriat fra høsten 1984, deretter var jeg Stortingets kontorsjef fra medio 1987 og Stortingets direktør fra 1990 til jeg gikk av med</div>
-<div> </div>
-<div>pensjon i 2012. Jeg har vært medlem av flere styrer og som pensjonist har jeg fortsatt vært aktiv bl.a. som verge for enslige mindreårige asylsøkere, som meddommer i Oslo Tingrett, styremedlem i Senter for studier av Holocaust og livssynsminoriteter (HL- senteret), og styremedlem i Jødisk Museum i Oslo.</div>
-<div> </div>
-<div>Jeg har vært medlem av Skanke-foreningen fra 2005, nestleder fra 2007 og foreningens styrleder fra 2009-2022, deretter varamedlem til styret, og så igjen styreleder fra 2024. Jeg tilhører Hackås-linjen/Billsta-grenen/<wbr>Bjärme-linjen/Faxnälden-<wbr>linjen/Seljord-grenen av Skanke-ætten. I sistnevnte gren via sogneprest og prost Zacharias Jonssøn Skanckes (1601-1689) eldste datter Christense Zachariasdtr. Skancke (1634-1710), gift Garvik.</div>
-<div> </div>
-<div>Ole Bjørn Bringa, nestleder i styret (ny).</div>
-<div><figure class="post__image"><img loading="lazy"  src="https://skankeforeningeninorge.github.io/skankeweb/media/posts/11/Ole-B-Bringa-2.jpg" alt="" width="236" height="420" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://skankeforeningeninorge.github.io/skankeweb/media/posts/11/responsive/Ole-B-Bringa-2-xs.jpg 640w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/11/responsive/Ole-B-Bringa-2-sm.jpg 768w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/11/responsive/Ole-B-Bringa-2-md.jpg 1024w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/11/responsive/Ole-B-Bringa-2-lg.jpg 1366w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/11/responsive/Ole-B-Bringa-2-xl.jpg 1600w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/11/responsive/Ole-B-Bringa-2-2xl.jpg 1920w"></figure></div>
-<div>Jeg er født 23.6.1956 og vokste opp i Seljord i Telemark. Gift og har 3 barn. Er utdannet sivilingeniør fra NTH 1980, og har tilleggsutdannelse fra BI og Høgskolen i Hedmark. Jeg har allsidig bakgrunn fra bygg- og anleggssektoren; mest fra rådgivende ingeniørfirma, men også fra entreprenør, statlige byggherrer, næringslivsforsikring og kommunal forvaltning. I tillegg har jeg fartstid fra undervannsinspeksjon i Nordsjøen fra plattform og dykkerbåt. Jeg jobber nå 3-dagersuke i Norconsult på Lillehammer, hvor jeg har bodd de siste 26 årene. Har</div>
-<div> </div>
-<div>tidligere bodd 4 år i Trondheim, 14 år i Oslo, 2 år i Stavanger og 2 år i Bergen.</div>
-<div> </div>
-<div>Jeg har gitt ut bok om gamle ord og uttrykk i Seljordsdialekten, samt slektsbøker på mors- og farssiden. I tillegg har jeg studert tidlig utvandring fra Seljord til Amerika (1836- 1845). Telemark stod faktisk for 45% av utvandringa fra Norge i denne perioden. Jeg har vært passivt medlem av Skanke-foreningen i en del år og ble valgt inn i styret på årsmøtet i Bergen 7. juni. Jeg tilhører Faxnälden-/Bjärmelinjen/<wbr>Seljord-grenen av Skanke-ætten, dvs. etter prosten Zacharias Skancke og er etterkommer av hans datter Kristenses døtre Anne og Torbjørg, på hhv. mors- og farssiden.</div>
+                <p>Det innkalles til årsmøte i Skanke-foreningen i Norge, med påfølgende medlemsmøte lørdag 4. august 2018, kl. 09.00 i Thon Polar Hotel (3. etg) i Grønnegata 45, 9008 Tromsø, i forbindelse med Skanke-stevnet der 3.-5. august.</p>
+<p>Saker eller forslag som ønskes behandlet på årsmøtet bes sendt styreleder Hans Brattestå, Skøyen terrasse 38, 0276 Oslo, evt. som e-post til brattesta@hotmail.com snarest mulig. Innkomne forslag vil bli lagt ut på våre nettsider www.skankeforeningen.no og tatt med i møtedokumentene.</p>
+<h2>Sakliste for årsmøtet:</h2>
+<ol>
+<li>Velkommen og åpning av årsmøtet.</li>
+<li>Valg av møteleder, én referent, tellekorps og to til å signere møteprotokollen.</li>
+<li>Registrering av årsmøtedeltagere og antall stemmeberettigede.</li>
+<li>Godkjenning av møteinnkalling og sakliste.</li>
+<li>Styrets meldinger om virksomheten i 2016/2017.</li>
+<li>Reviderte regnskap for 2016 og 2017.</li>
+<li>Eventuelle innkomne forslag til behandling.</li>
+<li>Valg
+<ul>
+<li>Leder</li>
+<li>Styremedlemmer</li>
+<li>Varamedlemmer</li>
+<li>Valgkomite på 3 medlemmer</li>
+<li>Revisor Medlemsmøte Drøfting av virksomheten, aktuelle saker, planer fremover etc.</li>
+</ul>
+</li>
+</ol>
+<p> </p>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>Vedtekter</title>
+        <title>I Skanke-spor rundt Mjøsa</title>
         <author>
-            <name>Magne Seim</name>
+            <name>Hans Brattestå</name>
         </author>
-        <link href="https://skankeforeningeninorge.github.io/skankeweb/vedtekter.html"/>
-        <id>https://skankeforeningeninorge.github.io/skankeweb/vedtekter.html</id>
-            <category term="OmOss"/>
+        <link href="https://skankeforeningeninorge.github.io/skankeweb/i-skanke-spor-rundt-mjosa.html"/>
+        <id>https://skankeforeningeninorge.github.io/skankeweb/i-skanke-spor-rundt-mjosa.html</id>
+            <category term="Nyheter"/>
 
-        <updated>2025-04-24T10:22:39+02:00</updated>
-            <summary>
+        <updated>2015-11-10T21:50:00+01:00</updated>
+            <summary type="html">
                 <![CDATA[
-                    SKANKE-FORENINGEN I NORGE BLE STIFTET 22. MAI 1982 ETTER INITATIV AV HØYESTERETTSADVOKAT SVERRE M. HALBO. FORENINGENS VEDTEKTER BESTÅR AV FØLGENDE PARAGRAFER, FASTSATT PÅ KONSTITUERENDE MØTE 22. MAI 1982 I OSLO. OMARBEIDET PÅ RØROS 17. JULI 1987, I LEKSAND I SVERIGE 13.JUNI 1995, OG I TROMSØ&hellip;
+                    Program for stevnet 5.- 6. september, 2015 Lørdag 5. september: Kl. 0800 Avreise fra Oslo til Hamar. Buss parkert foran Grand Hotel på Karl Johan. Kl. 10.00 Omvisning i de&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p> </p>
-<div>
-<div>SKANKE-FORENINGEN I NORGE BLE STIFTET 22. MAI 1982 ETTER INITATIV AV HØYESTERETTSADVOKAT SVERRE M. HALBO.</div>
-<div>FORENINGENS VEDTEKTER BESTÅR AV FØLGENDE PARAGRAFER, FASTSATT PÅ KONSTITUERENDE MØTE 22. MAI 1982 I OSLO. OMARBEIDET PÅ RØROS 17. JULI 1987,</div>
-<div> </div>
-<div>I LEKSAND I SVERIGE 13.JUNI 1995,</div>
-<div> </div>
-<div>OG I TROMSØ 16.JUNI 2001.</div>
-<div> </div>
-<div>§ 1</div>
-<div> </div>
-<div>Foreningens formål er å danne bindeledd mellom de forskjellige grener av Skanke-ætten i Norge og andre Skanke-ættlinger, skaffe opplysninger om felles forfedre, utarbeide stamtavler og få i stand sammenkomster og reiser til steder av betydning for slektens historie. Foreningens merke er et skjold i hvitt med et jernkledt blått ben (skank) vendt mot venstre, og med spore i gull.</div>
-<div> </div>
-<div>§ 2</div>
-<div> </div>
-<div>Alle som bærer navnet Skanke, uavhengig av skrivemåte, eller tilhører en Skanke-slekt agnatisk eller kognatisk, kan bli medlem av foreningen. Med styrets samtykke kan også opptaes andre interessante personer. Det er adgang til å tegne livslangt medlemskap for en kontingent fastsatt av årsmøtet. Etter forslag fra styret kan årsmøtet tildele æresmedlemskap i foreningen til personer som har gjort seg særlig fortjent.</div>
-<div> </div>
-<div>Medlemmer av slektsforeningen Barfod i Danmark og Slektsforeningen Skanke- ættlingar i Sverige kan bli medlemmer av Skanke-foreningen i Norge. Kontingent betales hvert år innen 1. mai. Styret kan stryke et medlemskap dersom det i de to siste år ikke er betalt medlemskap, tross purringer.</div>
-<div> </div>
-<div>Ektefelle / samboer til medlemmer kan delta på foreningens arrangementer, men uten stemmerett.</div>
-<div> </div>
-<div>§ 3</div>
-<div> </div>
-<div>Foreningen ledes av et styre på inntil syv-7 medlemmer, med inntil tre-3 varamedlemmer, som om mulig bør representere forskjellige slektsgrener, og med en viss fordeling utover landet. Styremedlemmer og varamedlemmer velges av årsmøtet, foreningens leder ved direkte valg. Subsidiert kan styret velge leder internt. Styret velger selv nestleder, kasserer og sekretær blant sine medlemmer. Styret kan oppnevne arkivar, som også kan være et av foreningens medlemmer. Styret kan også oppnevne komiteer og utvalg for å løse bestemte oppgaver. Redaktør og (2) medlemmer til redaksjonsnemd velges av styret. Styret er beslutningsdyktig når leder eller nestleder og minst 4-fire styremedlemmer (varamedlemmer) er tilstede.</div>
-<div> </div>
-<div>
-<div>
-<div>§ 4</div>
-<div>Årsmøtet som er foreningens øverste myndighet, avholdes vanligvis hvert annet år innen juli måneds utgang. Opplysninger om tid og sted for årsmøtet sendes medlemmene innen 1. mars. Innkalling til møtet, med saksliste og fullstendig program for arrangementet, sendes ut til de påmelte minst 4 uker før møtet. Saker som ønskes behandlet på årsmøtet, må være lederen i hende innen 1. mai samme år. Det forutsettes at alle medlemmene er kjent med årsmøtesakene gjennom SKANKE-NYTT.</div>
-<div> </div>
-<div>Det ordinære årsmøtet skal behandle:</div>
-<div> </div>
-<div>§ 5</div>
-<div> </div>
-<div>1. Styrets melding om arbeidet det / de siste kalenderår.</div>
-<div> </div>
-<div>2. Regnskap, som legges fram i revidert stand, for det/de siste kalenderår.</div>
-<div> </div>
-<div>3. Eventuell justering av medlemskontingenten og kontingent ved livslangt medlemskap.</div>
-<div> </div>
-<div>4. Valg på :</div>
-<div> </div>
-<div>a) Leder</div>
-<div> </div>
-<div>b) Styremedlemmer</div>
-<div> </div>
-<div>c) Varamedlemmer</div>
-<div> </div>
-<div>d) Valgkomitè på 3 medlemmer</div>
-<div> </div>
-<div>e) Revisor</div>
-<div> </div>
-<div>f) Eventuell tildeling av æresmedlemskap</div>
-<div> </div>
-<div>Funksjonstiden er for alle fram til neste ordinære årsmøte. Ved stemmelikhet er lederens stemme avgjørende. Ved stemmelikhet ved valg foretas loddtrekning.</div>
-<div> </div>
-<div>§ 6</div>
-<div> </div>
-<div>Eventuelle forslag fra medlemmer til endring av eller tillegg av disse vedtektene, må være lederen i hende innen 1. mai. Forslagene sendes medlemmene minst 4 uker før årsmøtet og må oppnå 2/3 flertall av de tilstedeværende stemmeberettigede medlemmer for å være vedtatt.</div>
-<div> </div>
-<div>§ 7</div>
-<div> </div>
-<div>Med 4 flertall av frammøtte stemmeberettigede medlemmer kan det treffes vedtak om at Skanke-foreningen i Norge kan oppløses. Vedtak om disponering av midler og arkiv kan treffes eventuelt med vanlig flertall.</div>
-</div>
-<div> </div>
-</div>
-</div>
-<div> </div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Første konstitueringsmøtet i 1982</title>
-        <author>
-            <name>Magne Seim</name>
-        </author>
-        <link href="https://skankeforeningeninorge.github.io/skankeweb/konstitueringsmotet.html"/>
-        <id>https://skankeforeningeninorge.github.io/skankeweb/konstitueringsmotet.html</id>
-            <category term="OmOss"/>
-
-        <updated>2025-04-23T17:35:47+02:00</updated>
-            <summary>
-                <![CDATA[
-                    Den 22 mai i 1982 ble Skankeforeningen i Norge stiftet med et konstituerende møte i Oslo. Initiativet kom fra høyesterettsadvokat Sverre M. Halbo, inspirert av Slãktfõreningen Skuncke-ãttlingar i Sverige som allerde hadde eksistert i 10 år. Interessen var stor der 38 kvinner og menn viste&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Den 22 mai i 1982 ble Skankeforeningen i Norge stiftet med et konstituerende møte i Oslo. Initiativet kom fra høyesterettsadvokat Sverre M. Halbo, inspirert av Slãktfõreningen Skuncke-ãttlingar i Sverige som allerde hadde eksistert i 10 år. Interessen var stor der 38 kvinner og menn viste engasjement og 19 entusiastiske kvinner og menn møttes i Oslo der flere har satt sitt preg på foreningen. Her kan nevnes Andreas Schanke, Ivar M. Schancke, Ingebjørg Kasin Sandsdalen, Eilert Schanche jr. og Leif Schanche.</p>
-<p>På møtet ble vedtaekter og kontigenten fastsatt. Formann ble Andreas Schanke med styremedlemmene Inger Lise Skancke, Ingebjørg Kasin Sandsdalen, Eilert Schanche jr., Astrid Elise Schancke Brækken og Trygve Schanche.</p>
-<p>Bilde fra 25 års jubileet i Skankeforeningen.</p>
-<figure class="post__image"><img loading="lazy"  src="https://skankeforeningeninorge.github.io/skankeweb/media/posts/9/Det-forste-Skankestyret1982-2.jpg" alt="" width="2439" height="1372" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://skankeforeningeninorge.github.io/skankeweb/media/posts/9/responsive/Det-forste-Skankestyret1982-2-xs.jpg 640w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/9/responsive/Det-forste-Skankestyret1982-2-sm.jpg 768w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/9/responsive/Det-forste-Skankestyret1982-2-md.jpg 1024w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/9/responsive/Det-forste-Skankestyret1982-2-lg.jpg 1366w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/9/responsive/Det-forste-Skankestyret1982-2-xl.jpg 1600w ,https://skankeforeningeninorge.github.io/skankeweb/media/posts/9/responsive/Det-forste-Skankestyret1982-2-2xl.jpg 1920w"></figure>
-<p>1 rekke:Schancke, Ingebjørg Kasin Sandsdalen, Inger Lise Schanche.<br>2 rekke: Trygve Scjanche, Roger de Robelin, Ivar M Schancke, Andreas Schanke, Eilert Schanche.</p>
+                <p>Program for stevnet 5.- 6. september, 2015</p>
+<p>Lørdag 5. september: Kl. 0800 Avreise fra Oslo til Hamar. Buss parkert foran Grand Hotel på Karl Johan. Kl. 10.00 Omvisning i de historiske ruinene på Domkirkeodden i Hamar. (Biskop Carl Jensson Skanke/Schonch, ca. 1460 – 1512)</p>
+<p>Kl. 12.00 Felles lunsj på Hamar. Kl. 13.00 Avreise til Ringsaker kirke. Kl. 14.00 Omvisning i Ringsaker kirke. (Ansten Jonsson Skankes altertavle. Han var kannik i Hamar og sogneprest i Ringsaker 1527-1547, dvs. «tvers igjennom» reformasjonen).</p>
+<p>Kl. 15.30 Avreise til Staur Gård via Nes og Helgøya. Kl. 18.00 (ca) Ankomst Staur Gård på Stange, hvor vi skal overnatte. Kl. 19.30 Apéritif med påfølgende festmiddag på herskapelige Staur Gård. Påfølgende sosialt samvær.</p>
+<p>Søndag 6. september:</p>
+<p>Frokost på hotellet. Kl. 09.00 Avreise med buss fra Staur Gård til Hoff kirke på Østre Toten. Kl. 11.00 Gudstjeneste i Hoff kirke med etterfølgende omvisning. (Presterekken med malerier av flere Skanke-prester, bl. a. Carl Jensson Skanke/Schonch (ca. 1460-1512), Jon Narvesson Schonch/Skanke (f. ca. 1460) og deres antatte barnebarne Carl Tordsson Skanke/Schonch (d. 1593).</p>
+<p>Kl. 13.00 Lunsj i Hoff Gjestgiveri. Kl. 14.15 Avreise til Balke kirke. Kl. 15.00 Omvisning i Balke kirke. (Altertavle laget og skjenket av Jon Narvesson Schonch/Skanke, som var prest i Hoff kirke 1500-1506, senere kannik på Hamar og prest i Vang kirke på Hamar.)</p>
+<p>Kl. 16.15 Busstur tilbake til Oslo. (Tentativt via Storøya i Tyrifjorden. Kl. 17.00 Tentativt: Besøk med omvisning på historiske Storøen Gård. (Gården og øya tilhørte Hamar bispedømme fra 1200-tallet og frem mot reformasjonen. Her har nok også biskop Carl Jensson Skanke holdt til i perioder.)</p>
+<p>Kl. 19.00 (ca) Tilbake i Oslo.</p>
             ]]>
         </content>
     </entry>
