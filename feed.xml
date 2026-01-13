@@ -3,7 +3,7 @@
     <title>Skanke-foreningen</title>
     <link href="https://skankeforeningeninorge.github.io/skankeweb/feed.xml" rel="self" />
     <link href="https://skankeforeningeninorge.github.io/skankeweb" />
-    <updated>2026-01-13T16:59:20+01:00</updated>
+    <updated>2026-01-13T17:03:00+01:00</updated>
     <author>
         <name>Skankeforeningen</name>
     </author>
@@ -16,6 +16,7 @@
         </author>
         <link href="https://skankeforeningeninorge.github.io/skankeweb/pamelding-til-skanke-stevnet-i-lofoten.html"/>
         <id>https://skankeforeningeninorge.github.io/skankeweb/pamelding-til-skanke-stevnet-i-lofoten.html</id>
+            <category term="Nyheter"/>
 
         <updated>2026-01-13T16:36:34+01:00</updated>
             <summary type="html">
@@ -67,6 +68,7 @@
         </author>
         <link href="https://skankeforeningeninorge.github.io/skankeweb/skanke-stevne-og-arsmote-i-lofoten.html"/>
         <id>https://skankeforeningeninorge.github.io/skankeweb/skanke-stevne-og-arsmote-i-lofoten.html</id>
+            <category term="Nyheter"/>
 
         <updated>2026-01-13T16:18:41+01:00</updated>
             <summary type="html">
@@ -101,6 +103,7 @@
         </author>
         <link href="https://skankeforeningeninorge.github.io/skankeweb/arsmote-i-skanke-foreningen-i-norge.html"/>
         <id>https://skankeforeningeninorge.github.io/skankeweb/arsmote-i-skanke-foreningen-i-norge.html</id>
+            <category term="Nyheter"/>
 
         <updated>2026-01-13T16:12:03+01:00</updated>
             <summary type="html">
@@ -124,6 +127,7 @@
         </author>
         <link href="https://skankeforeningeninorge.github.io/skankeweb/pamindelse-om-medlemskontingent-for-2026.html"/>
         <id>https://skankeforeningeninorge.github.io/skankeweb/pamindelse-om-medlemskontingent-for-2026.html</id>
+            <category term="Nyheter"/>
 
         <updated>2026-01-13T16:06:07+01:00</updated>
             <summary type="html">
