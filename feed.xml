@@ -3,7 +3,7 @@
     <title>Skanke-foreningen</title>
     <link href="https://skankeforeningeninorge.github.io/skankeweb/feed.xml" rel="self" />
     <link href="https://skankeforeningeninorge.github.io/skankeweb" />
-    <updated>2026-03-08T17:51:01+01:00</updated>
+    <updated>2026-03-08T18:52:52+01:00</updated>
     <author>
         <name>Skankeforeningen</name>
     </author>
@@ -110,6 +110,7 @@
         </author>
         <link href="https://skankeforeningeninorge.github.io/skankeweb/magnhild-en-skygge-av-historien.html"/>
         <id>https://skankeforeningeninorge.github.io/skankeweb/magnhild-en-skygge-av-historien.html</id>
+            <category term="Artikler"/>
 
         <updated>2026-01-31T20:46:23+01:00</updated>
             <summary type="html">
